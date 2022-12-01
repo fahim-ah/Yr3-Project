@@ -1,0 +1,1028 @@
+﻿Catalyst Materials,Family,Substrate,"Operating Conditions (T, pH, potential)","Valence state, A","Valence state, B",Ionic radius A,Ionic radius B,ΔGOH*,ΔGO*,ΔGOOH*,Adsorption strength,Stable hours/cycles,"Tafel Slope, mV per decade","Overpotential at xx (nearby) current density vs RHE, V","Reaction (HER, HRR, OER, ORR)"
+(Mn-Co-Ta-Sb)Ox,,(Mn-Co-Ta-Sb)Ox loaded on FTO,1M H2SO4,,,,,,,,,2 h @ 0.26 mA/cm2,-,0.55,OER
+[Mo2S12]2-,Transition metal dichalcogenide,,Acidic media,,,,,-,-,-,-0.05 eV (H),,,,HER
+1T-MoS2,,Exfoliated 2D 1T phase molybdenum disulfide loaded on carbon paper,0.5 M H2SO4 ,,,,,,,,,Potential increased by ~100 mV after 2 h @10 mA/cm2,322,0.42,OER
+AgAlO3,Perovskite,-,Alkaline media,3,3,0.71,0.468,2.18,4.63,5.1,,,,1.82,OER
+AgBiO3,Perovskite,-,Alkaline media,1,5,1.061,0.76,1.09,3.37,4.23,,,,1.55,OER
+Ag-Co3O4-1,,Mesoporous Ag-doped Co3O4 nanowire arrays supported on FTO,0.5 M H2SO4 ,,,,,,,,,10 h @ 1.6 V vs. RHE (~ 6 mA/cm2),219,0.68,OER
+Ag-Co3O4-2,,Ag doped Co3O4 loaded on glassy carbon electrode,0.5 M H2SO4 ,,,,,,,,,-,92,0.47,OER
+AgCoO3,Perovskite,-,Alkaline media,2,4,0.865,0.465,1.59,3.28,4.66,,,,0.92,OER
+AgCrO3,Perovskite,-,Alkaline media,1,5,1.061,0.468,0.83,2.36,4.26,,,,1.31,OER
+AgCuO3,Perovskite,-,Alkaline media,3,3,0.71,0.54,1.8,4.36,4.79,,,,1.38,OER
+AgFeO3,Perovskite,-,Alkaline media,2,4,0.865,0.585,1.71,3.57,4.85,,,,0.74,OER
+AgGeO3,Perovskite,-,Alkaline media,2,4,0.865,0.46,1.2,3.94,4.51,,,,1.74,OER
+AgInO3,Perovskite,-,Alkaline media,3,3,0.71,0.78,1.93,4.88,5,,,,1.81,OER
+AgIrO3,Perovskite,-,Alkaline media,1,5,1.061,0.57,0.93,2.51,4.02,,,,0.71,OER
+AgMnO3,Perovskite,-,Alkaline media,1,5,1.061,0.33,1.57,3.14,4.78,,,,0.77,OER
+AgMoO3,Perovskite,-,Alkaline media,1,5,1.061,0.535,-0.27,-0.48,2.95,,,,2.2,OER
+AgNbO3,Perovskite,-,Alkaline media,2,4,0.865,0.735,1.68,4.46,4.99,,,,1.55,OER
+AgNbO3,Perovskite,-,Alkaline media,1,5,1.061,0.638,-0.59,0.39,2.93,,,,1.31,OER
+AgNiO3,Perovskite,-,Alkaline media,2,4,0.865,0.48,1.53,3.66,4.34,,,,1.15,OER
+AgNpO3,Perovskite,-,Alkaline media,1,5,1.061,0.75,1.11,3.3,4.33,,,,1.79,OER
+AgOsO3,Perovskite,-,Alkaline media,1,5,1.061,0.575,0.35,1.39,3.58,,,,1.26,OER
+AgPdO3,Perovskite,-,Alkaline media,2,4,0.865,0.615,0.96,3.39,3.99,,,,1.19,OER
+AgPtO3,Perovskite,-,Alkaline media,1,5,1.061,0.57,0.71,2.98,3.68,,,,1.26,OER
+AgPuO3,Perovskite,-,Alkaline media,1,5,1.061,0.74,1.03,3.19,4.36,,,,1.75,OER
+AgReO3,Perovskite,-,Alkaline media,1,5,1.061,0.58,0.29,2.02,3.44,,,,1.39,OER
+AgRhO3,Perovskite,-,Alkaline media,1,5,1.061,0.55,0.32,2.2,3.34,,,,0.8,OER
+AgRuO3,Perovskite,-,Alkaline media,1,5,1.061,0.565,0.65,2.35,3.84,,,,0.65,OER
+AgSbO3,Perovskite,-,Alkaline media,1,5,1.061,0.6,0.13,2.33,3.66,,,,1.48,OER
+AgScO3,Perovskite,-,Alkaline media,3,3,0.71,0.808,2.13,5.07,4.96,,,,1.82,OER
+AgSnO3,Perovskite,-,Alkaline media,2,4,0.865,1.082,1.83,4.87,5.09,,,,1.8,OER
+AgTaO3,Perovskite,-,Alkaline media,1,5,1.061,0.69,0.04,1.47,3.35,,,,1.98,OER
+AgTcO3,Perovskite,-,Alkaline media,1,5,1.061,0.6,0.61,2.26,3.78,,,,1.34,OER
+AgTeO3,Perovskite,-,Alkaline media,2,4,0.865,0.717,0.38,2.73,3.84,,,,1.57,OER
+AgTiO3,Perovskite,-,Alkaline media,2,4,0.865,0.569,1.81,4.28,4.94,,,,1.6,OER
+AgUO3,Perovskite,-,Alkaline media,1,5,1.061,0.8,0.96,3.07,4.26,,,,1.7,OER
+AgVO3,Perovskite,-,Alkaline media,1,5,1.061,0.452,0.64,2.26,4.14,,,,1.36,OER
+AgWO3,Perovskite,-,Alkaline media,1,5,1.061,0.62,-1.22,-1.86,2.11,,,,2.73,OER
+AgZrO3,Perovskite,-,Alkaline media,2,4,0.865,0.747,2,4.98,4.97,,,,1.89,OER
+AlBO3,Perovskite,-,Alkaline media,3,3,0.468,0.13,2.3,4.56,5.27,,,,1.07,OER
+AlRhO3,Perovskite,-,Alkaline media,3,3,0.468,0.665,-1.03,0.37,2.11,,,,1.58,OER
+Ba[3]/CPO,,"Fe-substituted cobalt-phosphate
+polyoxometalate filled in a carbon paste electrode",0.5 M H2SO4 ,,,,,,,,,Chronoamperometric test for 24 h at 1.48 V vs. RHE. (~ 2 mA/cm2),181,0.385,OER
+Ba[Co-POM],,"Ba8[Co9(H2O)6(OH)3(HPO4)2(
+PW9O34)3]·55H2O loaded on
+carbon paste",1 M H2SO4 ,,,,,,,,,24 h (~0.3 mA/cm2),97,0.36,OER
+Ba[Co-POM],,"Ba8[Co9(H2O)6(OH)3(HPO4)2(
+PW9O34)3]·55H2O loaded on
+carbon paste",1 M H2SO4 ,,,,,,,,,24 h (~0.3 mA/cm2),97,0.195,OER
+Ba0.5Sr0.5Co0.8Fe0.2O3-δ,,,,,,,,,,,,,94,0.51,OER
+Ba0.5Sr0.5Co0.8Fe0.2O3‑δ (BSCF),Perovskite,,Alkaline media,,,,,,,,,,,,OER
+BaAgO3,Perovskite,-,Alkaline media,2,3,1.474,0.71,2.26,4.88,5.23,,,,1.39,OER
+BaAlO3,Perovskite,-,Alkaline media,2,3,1.474,0.468,2.05,1.42,4.78,,,,2.14,OER
+BaAuO3,Perovskite,-,Alkaline media,2,3,1.474,0.765,2.01,4.42,4.83,,,,1.18,OER
+BaBiO3,Perovskite,-,Alkaline media,2,3,1.474,1.053,0.69,3.1,3.88,,,,1.18,OER
+BaCdO3,Perovskite,-,Alkaline media,2,2,1.474,1.007,2.44,5.22,5.2,,,,1.55,OER
+BaCeO3,Perovskite,-,Alkaline media,2,4,1.474,1.012,2.39,5.01,5.55,,,,1.39,OER
+BaCoO3,Perovskite,-,Alkaline media,2,4,1.474,0.465,2.45,3.17,5.55,,,,1.22,OER
+BaCrO3,Perovskite,-,Alkaline media,2,4,1.474,0.48,1.47,2.56,4.79,,,,1.01,OER
+BaCuO3,Perovskite,-,Alkaline media,2,3,1.474,0.54,2.06,4.6,4.99,,,,1.3,OER
+BaFeO3,Perovskite,-,Alkaline media,2,4,1.474,0.585,2.22,4.07,5.35,,,,0.99,OER
+BaGaO3,Perovskite,-,Alkaline media,2,3,1.474,0.547,2.15,4.97,4.95,,,,1.59,OER
+BaGeO3,Perovskite,-,Alkaline media,2,4,1.474,0.46,1.54,4.02,4.86,,,,1.51,OER
+BaHfO3,Perovskite,-,Alkaline media,2,4,1.474,0.72,2.27,5.28,5.43,,,,1.78,OER
+BaHfO3,Perovskite,-,Alkaline media,2,4,1.474,0.72,1.32,4.25,4.52,,,,1.7,OER
+BaHgO3,Perovskite,-,Alkaline media,2,2,1.474,0.9525,2.18,4.78,5.29,,,,1.37,OER
+BaInO3,Perovskite,-,Alkaline media,2,3,1.474,0.78,2.03,4.94,4.91,,,,1.69,OER
+BaIrO3,Perovskite,-,Alkaline media,2,4,1.474,0.625,1.85,3.22,5.18,,,,0.73,OER
+BaIrO3,Perovskite,-,Alkaline media,2,4,1.474,0.625,0.84,2.12,3.89,,,,0.54,OER
+BaMnO3,Perovskite,-,Alkaline media,2,4,1.474,0.46,1.89,3.25,5.07,,,,0.74,OER
+BaMoO3,Perovskite,-,Alkaline media,2,4,1.474,0.65,-0.54,-0.72,2.66,,,,2.16,OER
+BaNbO3,Perovskite,-,Alkaline media,2,4,1.474,0.735,-0.56,0.23,3.08,,,,1.63,OER
+BaNbO3,Perovskite,-,Alkaline media,2,4,1.474,0.735,-1.28,-1.91,2.09,,,,2.77,OER
+BaNi0.83O2.5,Metal alloy oxide,,Alkaline media,,,,,,,,,,,,OER
+BaNiO3,Perovskite,-,Alkaline media,2,4,1.474,0.48,1.89,3.69,4.67,,,,1.03,OER
+BaNpO3,Perovskite,-,Alkaline media,2,4,1.474,0.925,1.3,3.12,4.53,,,,1.55,OER
+BaOsO3,Perovskite,-,Alkaline media,2,4,1.474,0.63,0.26,1.36,3.72,,,,1.12,OER
+BaPbO3,Perovskite,-,Alkaline media,2,4,1.474,0.774,1.73,4.46,4.89,,,,1.5,OER
+BaPdO3,Perovskite,-,Alkaline media,2,4,1.474,0.615,1.39,3.54,4.15,,,,0.92,OER
+BaPrO3,Perovskite,-,Alkaline media,2,4,1.474,0.905,2.31,5.13,5.43,,,,1.6,OER
+BaPtO3,Perovskite,-,Alkaline media,2,4,1.474,0.625,1.12,2.94,3.99,,,,0.6,OER
+BaReO3,Perovskite,-,Alkaline media,2,4,1.474,0.63,0.1,1.97,3.43,,,,1.2,OER
+BaRhO3,Perovskite,-,Alkaline media,2,4,1.474,0.6,0.66,2.19,3.52,,,,0.3,OER
+BaRuO3,Perovskite,-,Alkaline media,2,4,1.474,0.62,0.5,1.96,3.46,,,,0.27,OER
+BaSbO3,Perovskite,-,Alkaline media,2,3,1.474,0.707,-0.99,1.31,2.61,,,,1.08,OER
+BaScO3,Perovskite,-,Alkaline media,2,3,1.474,0.808,2.25,5.18,4.97,,,,1.7,OER
+BaSnO3,Perovskite,-,Alkaline media,2,4,1.474,1.082,2.1,5.04,5.46,,,,1.71,OER
+BaSnO3,Perovskite,-,Alkaline media,2,4,1.474,1.082,1.35,4.19,4.59,,,,1.6,OER
+BaTaO3,Perovskite,-,Alkaline media,2,4,1.474,0.68,-0.35,1.26,3.29,,,,1.63,OER
+BaTbO3,Perovskite,-,Alkaline media,2,4,1.474,0.82,2.57,5.54,5.62,,,,1.74,OER
+BaTcO3,Perovskite,-,Alkaline media,2,4,1.474,0.645,0.66,1.96,3.86,,,,1.19,OER
+BaTeO3,Perovskite,-,Alkaline media,2,4,1.474,0.717,0.28,2.64,3.66,,,,1.28,OER
+BaThO3,Perovskite,-,Alkaline media,2,4,1.474,1.1,1.78,4.4,5.15,,,,1.39,OER
+BaTiO3,Perovskite,-,Alkaline media,2,4,1.474,0.569,2.54,5.34,5.63,,,,1.57,OER
+BaTiO3,Perovskite,-,Alkaline media,2,4,1.474,0.569,0.98,3.58,4.21,,,,1.36,OER
+BaTiO3,Perovskite,-,Alkaline media,2,4,1.474,0.569,2.4,4.91,5.52,,,,1.47,OER
+BaTlO3,Perovskite,-,Alkaline media,2,3,1.474,0.865,2.05,4.77,5.02,,,,1.49,OER
+BaUO3,Perovskite,-,Alkaline media,2,4,1.474,1.012,1.26,2.96,4.52,,,,1.47,OER
+BaVO3,Perovskite,-,Alkaline media,2,4,1.474,0.61,1.07,2.31,4.53,,,,0.99,OER
+BaVO3,Perovskite,-,Alkaline media,2,4,1.474,0.61,-0.58,-0.79,2.76,,,,2.32,OER
+BaWO3,Perovskite,-,Alkaline media,2,4,1.474,0.66,-0.77,-0.71,2.67,,,,2.28,OER
+BaYO3,Perovskite,-,Alkaline media,2,3,1.474,0.988,1.8,4.78,4.75,,,,1.75,OER
+BaZnO3,Perovskite,-,Alkaline media,2,2,1.474,0.73,2.38,5.09,5.14,,,,1.48,OER
+BaZrO3,Perovskite,-,Alkaline media,2,4,1.474,0.747,2.38,5.41,5.5,,,,1.79,OER
+BaZrO3,Perovskite,-,Alkaline media,2,4,1.474,0.747,1.36,4.23,4.57,,,,1.64,OER
+BeIrO3,Perovskite,-,Alkaline media,2,4,0.293,0.625,1.65,3.08,4.95,,,,0.64,OER
+C/NPC/CP,,"Co phosphate nanoparticles encapsulated in N, P-codoped mesoporous carbon network as a 3D integrated electrode",0.5 M H2SO4 ,,,,,,,,,-,85,0.36,OER
+C60-SWCNT15,,C60-adsorbed single-walled carbon nanotubes loaded on glassy carbon disk,0.5 M H2SO4 ,,,,,,,,,Current decreased ~10% after 5 h @ 1.7 V vs. RHE,38.4,0.4,OER
+CaAgO3,Perovskite,-,Alkaline media,2,3,1.155,0.71,1.79,4.69,4.54,,,,1.67,OER
+CaAlO3,Perovskite,-,Alkaline media,2,3,1.155,0.468,2.24,5,4.92,,,,1.53,OER
+CaAuO3,Perovskite,-,Alkaline media,2,3,1.155,0.765,1.45,4.29,4.33,,,,1.62,OER
+CaCoO3,Perovskite,-,Alkaline media,2,4,1.155,0.465,2.07,3.54,5.02,,,,1.05,OER
+CaCrO3,Perovskite,-,Alkaline media,2,4,1.155,0.48,1.15,2.51,4.46,,,,1.09,OER
+CaCu3Fe4O12,Metal alloy oxide,,Alkaline media,,,,,,,,,,,,OER
+CaCuO3,Perovskite,-,Alkaline media,2,3,1.155,0.54,2.03,4.51,5.01,,,,1.25,OER
+CaFeO3,Perovskite,-,Alkaline media,2,4,1.155,0.585,2.29,4.38,5.45,,,,1.06,OER
+CaGaO3,Perovskite,-,Alkaline media,2,3,1.155,0.547,2.2,5.06,5,,,,1.63,OER
+CaGeO3,Perovskite,-,Alkaline media,2,4,1.155,0.46,1.09,3.87,4.31,,,,1.55,OER
+CaHfO3,Perovskite,-,Alkaline media,2,4,1.155,0.72,2.32,5.35,5.43,,,,1.8,OER
+CaIrO3,Perovskite,-,Alkaline media,2,4,1.155,0.625,1,2.47,4.21,,,,0.72,OER
+CaMnO3,Perovskite,-,Alkaline media,2,4,1.155,0.46,1.81,3.38,5.05,,,,0.58,OER
+CaMoO3,Perovskite,-,Alkaline media,2,4,1.155,0.65,-0.11,0.29,3.21,,,,1.89,OER
+CaNbO3,Perovskite,-,Alkaline media,2,4,1.155,0.735,-0.19,0.96,3.34,,,,1.53,OER
+CaNiO3,Perovskite,-,Alkaline media,2,4,1.155,0.48,1.75,3.83,4.54,,,,1.05,OER
+CaNpO3,Perovskite,-,Alkaline media,2,4,1.155,0.925,1.24,3.23,4.44,,,,1.6,OER
+CaOsO3,Perovskite,-,Alkaline media,2,4,1.155,0.63,0.41,1.31,3.73,,,,1.15,OER
+CaPdO3,Perovskite,-,Alkaline media,2,4,1.155,0.615,1.14,3.57,4.04,,,,1.06,OER
+CaPtO3,Perovskite,-,Alkaline media,2,4,1.155,0.625,0.94,3.21,3.85,,,,1.1,OER
+CaPuO3,Perovskite,-,Alkaline media,2,4,1.155,0.91,1.18,3.13,4.44,,,,1.57,OER
+CaReO3,Perovskite,-,Alkaline media,2,4,1.155,0.63,0.21,2.2,3.49,,,,1.25,OER
+CaRhO3,Perovskite,-,Alkaline media,2,4,1.155,0.6,0.47,2.23,3.45,,,,0.8,OER
+CaRuO3,Perovskite,-,Alkaline media,2,4,1.155,0.62,0.81,2.44,4.05,,,,0.7,OER
+CaScO3,Perovskite,-,Alkaline media,2,3,1.155,0.808,2,4.96,4.84,,,,1.74,OER
+CaSiO3,Perovskite,-,Alkaline media,2,4,1.155,0.33,0.61,3.44,4.09,,,,1.6,OER
+CaSnO3,Perovskite,-,Alkaline media,2,4,1.155,1.082,2.08,5.03,5.41,,,,1.72,OER
+CaTaO3,Perovskite,-,Alkaline media,2,4,1.155,0.68,-0.13,1.47,3.37,,,,1.64,OER
+CaTcO3,Perovskite,-,Alkaline media,2,4,1.155,0.645,0.68,2.03,3.89,,,,1.24,OER
+CaTeO3,Perovskite,-,Alkaline media,2,4,1.155,0.717,0.47,3.01,3.83,,,,1.33,OER
+CaTiO3,Perovskite,-,Alkaline media,2,4,1.155,0.569,2.78,5.66,5.74,,,,1.65,OER
+CaTiO3,Perovskite,-,Alkaline media,2,4,1.155,0.569,1.44,3.84,4.7,,,,1.17,OER
+CaUO3,Perovskite,-,Alkaline media,2,4,1.155,1.012,1.22,3.07,4.46,,,,1.53,OER
+CaVO3,Perovskite,-,Alkaline media,2,4,1.155,0.61,0.93,2.16,4.36,,,,0.97,OER
+CaWO3,Perovskite,-,Alkaline media,2,4,1.155,0.66,-0.61,-0.45,2.7,,,,2.24,OER
+CaYO3,Perovskite,-,Alkaline media,2,3,1.155,0.988,1.5,4.46,4.55,,,,1.74,OER
+CaZrO3,Perovskite,-,Alkaline media,2,4,1.155,0.747,2.4,5.44,5.47,,,,1.81,OER
+CdCoO3,Perovskite,-,Alkaline media,2,4,1.007,0.465,1.87,3.14,4.9,,,,0.96,OER
+CdCrO3,Perovskite,-,Alkaline media,2,4,1.007,0.48,0.93,2.01,4.34,,,,1.28,OER
+CdFeO3,Perovskite,-,Alkaline media,2,4,1.007,0.585,1.92,3.45,5.04,,,,0.77,OER
+CdGeO3,Perovskite,-,Alkaline media,2,4,1.007,0.46,1.45,4.08,4.75,,,,1.65,OER
+CdHfO3,Perovskite,-,Alkaline media,2,4,1.007,0.72,2.48,5.5,5.51,,,,1.79,OER
+CdIrO3,Perovskite,-,Alkaline media,2,4,1.007,0.625,0.74,2.08,3.88,,,,0.73,OER
+CdMnO3,Perovskite,-,Alkaline media,2,4,1.007,0.46,1.76,3.05,4.95,,,,0.79,OER
+CdMoO3,Perovskite,-,Alkaline media,2,4,1.007,0.65,-0.21,0.06,3.04,,,,2.03,OER
+CdNbO3,Perovskite,-,Alkaline media,2,4,1.007,0.735,-0.2,0.92,3.21,,,,1.65,OER
+CdNiO3,Perovskite,-,Alkaline media,2,4,1.007,0.48,1.69,3.69,4.46,,,,1.17,OER
+CdNpO3,Perovskite,-,Alkaline media,2,4,1.007,0.925,1.27,3.04,4.45,,,,1.67,OER
+CdOsO3,Perovskite,-,Alkaline media,2,4,1.007,0.63,0.06,0.83,3.31,,,,1.26,OER
+CdPdO3,Perovskite,-,Alkaline media,2,4,1.007,0.615,1,3.35,3.94,,,,1.19,OER
+CdPtO3,Perovskite,-,Alkaline media,2,4,1.007,0.625,0.72,2.97,3.65,,,,1.23,OER
+CdPuO3,Perovskite,-,Alkaline media,2,4,1.007,0.91,1.2,2.88,4.45,,,,1.64,OER
+CdReO3,Perovskite,-,Alkaline media,2,4,1.007,0.63,-0.01,1.75,3.16,,,,1.36,OER
+CdRhO3,Perovskite,-,Alkaline media,2,4,1.007,0.6,0.25,1.81,3.25,,,,0.85,OER
+CdRuO3,Perovskite,-,Alkaline media,2,4,1.007,0.62,0.49,1.92,3.67,,,,0.67,OER
+CdSnO3,Perovskite,-,Alkaline media,2,4,1.007,1.082,1.98,4.92,5.2,,,,1.74,OER
+CdTaO3,Perovskite,-,Alkaline media,2,4,1.007,0.68,-0.56,0.69,2.92,,,,1.81,OER
+CdTcO3,Perovskite,-,Alkaline media,2,4,1.007,0.645,0.43,1.76,3.59,,,,1.34,OER
+CdTeO3,Perovskite,-,Alkaline media,2,4,1.007,0.717,0.42,2.76,3.84,,,,1.47,OER
+CdTiO3,Perovskite,-,Alkaline media,2,4,1.007,0.569,2.9,5.76,5.82,,,,1.67,OER
+CdUO3,Perovskite,-,Alkaline media,2,4,1.007,1.012,1.16,2.82,4.4,,,,1.6,OER
+CdVO3,Perovskite,-,Alkaline media,2,4,1.007,0.61,0.68,1.82,4.17,,,,1.32,OER
+CdWO3,Perovskite,-,Alkaline media,2,4,1.007,0.66,-0.8,-0.89,2.47,,,,2.38,OER
+CdZrO3,Perovskite,-,Alkaline media,2,4,1.007,0.747,2.31,5.17,5.28,,,,1.82,OER
+CeAlO3,Perovskite,-,Alkaline media,3,3,1.168,0.468,2.1,4.19,5.05,,,,1.69,OER
+CeBiO3,Perovskite,-,Alkaline media,3,3,1.168,1.053,1.09,3.2,4.24,,,,1.37,OER
+CeCoO3,Perovskite,-,Alkaline media,3,3,1.168,0.578,1.31,2.93,4.37,,,,0.92,OER
+CeCrO3,Perovskite,-,Alkaline media,3,3,1.168,0.615,0.68,1.47,4.03,,,,1.36,OER
+CeCuO3,Perovskite,-,Alkaline media,3,3,1.168,0.54,1.7,4.08,4.72,,,,1.37,OER
+CeFeO3,Perovskite,-,Alkaline media,3,3,1.168,0.609,1.49,3.15,4.64,,,,0.71,OER
+CeGaO3,Perovskite,-,Alkaline media,3,3,1.168,0.547,2.4,4.81,5.34,,,,1.67,OER
+CeInO3,Perovskite,-,Alkaline media,3,3,1.168,0.78,1.91,4.6,4.96,,,,1.7,OER
+CeIrO3,Perovskite,-,Alkaline media,3,3,1.168,0.68,0.35,1.68,3.64,,,,0.73,OER
+CeMgO3,Perovskite,-,Alkaline media,4,2,1.012,0.71,1.84,4.53,4.73,,,,1.64,OER
+CeMnO3,Perovskite,-,Alkaline media,3,3,1.168,0.602,1.35,2.66,4.59,,,,0.81,OER
+CeMoO3,Perovskite,-,Alkaline media,3,3,1.168,0.69,-0.47,-0.13,2.94,,,,2.03,OER
+CeNbO3,Perovskite,-,Alkaline media,3,3,1.168,0.72,-0.66,0.21,2.98,,,,1.6,OER
+CeNiO3,Perovskite,-,Alkaline media,3,3,1.168,0.58,1.47,3.49,4.27,,,,1.17,OER
+CeNpO3,Perovskite,-,Alkaline media,3,3,1.168,1.01,0.96,2.48,4.1,,,,1.73,OER
+CePdO3,Perovskite,-,Alkaline media,3,3,1.168,0.76,0.81,3.02,3.83,,,,1.19,OER
+CePtO3,Perovskite,-,Alkaline media,4,2,1.012,0.7,0.39,2.54,3.54,,,,1.22,OER
+CePuO3,Perovskite,-,Alkaline media,3,3,1.168,1,0.85,2.3,4.16,,,,1.64,OER
+CeRhO3,Perovskite,-,Alkaline media,3,3,1.168,0.665,-0.02,1.51,3.17,,,,0.91,OER
+CeRuO3,Perovskite,-,Alkaline media,3,3,1.168,0.68,0.29,1.65,3.57,,,,0.73,OER
+CeSbO3,Perovskite,-,Alkaline media,3,3,1.168,0.707,-0.27,1.88,3.34,,,,1.27,OER
+CeScO3,Perovskite,-,Alkaline media,3,3,1.168,0.808,1.97,4.77,4.8,,,,1.76,OER
+CeTaO3,Perovskite,-,Alkaline media,3,3,1.168,0.72,-0.73,0.49,2.97,,,,1.86,OER
+CeTiO3,Perovskite,-,Alkaline media,3,3,1.168,0.67,1.19,2.87,4.4,,,,1.3,OER
+CeUO3,Perovskite,-,Alkaline media,3,3,1.168,1.025,0.68,2.13,3.97,,,,1.57,OER
+CeVO3,Perovskite,-,Alkaline media,3,3,1.168,0.64,0.35,1.16,3.82,,,,1.43,OER
+CeZnO3,Perovskite,-,Alkaline media,4,2,1.012,0.73,2.02,4.78,4.88,,,,1.62,OER
+c-Fe2O3,,Maghemite and hematite Fe2O3 loaded on Ti foil substrate,0.5 M H2SO4 ,,,,,,,,,"24 h @10 mA/cm2, overpotential increased from 650 mV to 900 mV",56,0.65,OER
+Co0.05Fe0.95Oy,,Cobalt-doped hematite thin film deposited on Ti foil substrate,0.5 M H2SO4 ,,,,,,,,,Deactivated after 60 h @ 10 mA/cm2 at pH = 0.3 or 100 h at pH = 2,110,0.65,OER
+Co0.5Ir0.5O2,Bimetallic oxide,-,Acidic media,,,,,0.65,2,3.62,,,,0.39,OER
+Co0.5Ir0.5O2,Bimetallic oxide,-,Acidic media,,,,,0.65,2.33,3.94,,,,0.45,OER
+Co0.5Ir0.5O2,Bimetallic oxide,-,Acidic media,,,,,0.61,1.96,3.62,,,,0.43,OER
+Co2TiO4,,Spinel cobalt titanium oxide octahedral nanocrystals supported on carbon cloth,0.5 M H2SO4 ,,,,,,,,,"Chronoamperometric test at 1.79V vs. RHE for 10 h, current density decreased from 11 to 4.5 mA/cm2",240,0.513,OER
+Co3(PO4)2,,derived from Co3(PO4)2 on FTO,1 M H3PO4 at pH = 1.6,,,,,,,,,30h,-,0.97,OER
+Co3O4,,Cobalt oxide (Co3O4) loaded on fluorine-doped tin oxide (FTO) substrate,0.5 M H2SO4 ,,,,,,,,,12 h ,80,0.57,OER
+Co3O4 @ C,,Carbon coated Co3O4 nanoarrays loaded on carbon paper,0.5 M H2SO4 ,,,,,,,,,Deactivated after 82 h @ 100 mA/cm2,82,0.37,OER
+CoFePbOx-1,,CoFePbOx catalysts deposited on fluorine-doped tin oxide (FTO),pH = 0,,,,,,,,,"100 mA/cm2 for 8 h at 60 oC, in 0.1M H2SO4; 10 mA/cm2 for 160 h at 23 oC in 0.1 M H2SO4",80,0.7,OER
+CoFePbOx-2,,electrodeposited on FTO,pH = 2 sulfate,,,,,,,,,"52 h, 20 mV increase in overpotential @ 1 mA/cm2",68,0.72,OER
+CoMoNiS-NF-31/Ni,,Hierarchical nano-assembly of MoS2/Co9S8/Ni3S2 supported on nickel foam,0.5 M H2SO4 ,,,,,,,,,-,78,0.228,OER
+CoP,Transition metal phosphide,,Alkaline media,,,,,-,-,-,,,42,0.094,HER
+CoP,Transition metal phosphide,C cloth,Acidic media,,,,,-,-,-,,5000 cycles,51,0.067,HER
+CoP,Transition metal phosphide,CNT,Acidic media,,,,,-,-,-,,18,54,,HER
+CoPS,Transition metal chalcogenide,Carbon fibre,Acidic media,,,,,-,-,-,,36h,56,0.048,HER
+CoS2,Transition metal dichalcogenide,Graphite,Acidic media,,,,,,,,,40h,51.6,0.145,
+CoSe2,Transition metal chalcogenide,Carbon fibre,Acidic media,,,,,-,-,-,,60h,48,0.137,HER
+CoSe2,Transition metal chalcogenide,Carbon fibre,Acidic media,,,,,-,-,-,,60h,48,0.137,HER
+CoTe2,"2D TMD, 1T",,,,,,,,,,,,,0.42,OER
+CoTe2,"2D TMD, 1T'",,,,,,,,,,,,,0.39,OER
+CoTe2,"2D TMD, 2H",,,,,,,,,,,,,0.34,OER
+CrTe2,"2D TMD, 1T",,,,,,,,,,,,,0.44,OER
+CrTe2,"2D TMD, 2H",,,,,,,,,,,,,0.33,OER
+CsIO3,Perovskite,-,Alkaline media,1,5,1.788,0.695,2.74,4.65,5.45,,,,1.51,OER
+Cu1.5Mn1.5O4:10F,,F doped Cu1.5Mn1.5O4 loaded on glassy carbon electrode,0.5 M H2SO4 ,,,,,,,,,16 mA/cm2 for 24 h,60,0.325,OER
+DyAlO3,Perovskite,-,Alkaline media,3,3,0.998,0.468,1.53,4.04,4.55,,,,1.8,OER
+DyBiO3,Perovskite,-,Alkaline media,3,3,0.998,1.053,1.05,3.12,4.19,,,,1.54,OER
+DyCoO3,Perovskite,-,Alkaline media,2,4,1.13,0.465,1.31,3.12,4.43,,,,0.87,OER
+DyCrO3,Perovskite,-,Alkaline media,2,4,1.13,0.48,0.63,1.4,3.97,,,,1.43,OER
+DyCuO3,Perovskite,-,Alkaline media,3,3,0.998,0.54,1.47,3.81,4.48,,,,1.46,OER
+DyFeO3,Perovskite,-,Alkaline media,2,4,1.13,0.585,1.26,3.23,4.47,,,,0.67,OER
+DyGaO3,Perovskite,-,Alkaline media,3,3,0.998,0.547,1.95,4.78,4.91,,,,1.79,OER
+DyGeO3,Perovskite,-,Alkaline media,2,4,1.13,0.46,0.82,3.21,4.07,,,,1.75,OER
+DyInO3,Perovskite,-,Alkaline media,3,3,0.998,0.78,1.57,4.55,4.63,,,,1.81,OER
+DyIrO3,Perovskite,-,Alkaline media,2,4,1.13,0.625,0.57,1.78,3.8,,,,0.65,OER
+DyMnO3,Perovskite,-,Alkaline media,2,4,1.13,0.46,1.19,2.73,4.4,,,,0.76,OER
+DyMoO3,Perovskite,-,Alkaline media,2,4,1.13,0.65,-0.26,-0.07,3.07,,,,2.06,OER
+DyNbO3,Perovskite,-,Alkaline media,2,4,1.13,0.735,-0.34,0.39,3.19,,,,1.71,OER
+DyNiO3,Perovskite,-,Alkaline media,2,4,1.13,0.48,1.26,3.24,4.08,,,,1.21,OER
+DyNpO3,Perovskite,-,Alkaline media,2,4,1.13,0.925,0.78,2.55,3.96,,,,1.8,OER
+DyOsO3,Perovskite,-,Alkaline media,2,4,1.13,0.63,0.09,0.82,3.46,,,,1.31,OER
+DyPdO3,Perovskite,-,Alkaline media,2,4,1.13,0.615,0.84,2.88,3.82,,,,1.24,OER
+DyPtO3,Perovskite,-,Alkaline media,2,4,1.13,0.625,0.46,2.45,3.58,,,,1.29,OER
+DyPuO3,Perovskite,-,Alkaline media,2,4,1.13,0.91,0.69,2.32,4,,,,1.74,OER
+DyReO3,Perovskite,-,Alkaline media,2,4,1.13,0.63,-0.03,1.23,3.31,,,,1.43,OER
+DyRhO3,Perovskite,-,Alkaline media,2,4,1.13,0.6,0.08,1.46,3.27,,,,0.76,OER
+DyRuO3,Perovskite,-,Alkaline media,2,4,1.13,0.62,0.4,1.65,3.68,,,,0.65,OER
+DySbO3,Perovskite,-,Alkaline media,3,3,0.998,0.707,-0.25,1.76,3.37,,,,1.46,OER
+DyScO3,Perovskite,-,Alkaline media,3,3,0.998,0.808,1.42,4.55,4.37,,,,1.83,OER
+DySnO3,Perovskite,-,Alkaline media,2,4,1.13,1.082,1.46,4.49,4.61,,,,1.8,OER
+DyTaO3,Perovskite,-,Alkaline media,2,4,1.13,0.68,-0.4,0.62,3.21,,,,1.96,OER
+DyTcO3,Perovskite,-,Alkaline media,2,4,1.13,0.645,0.29,1.28,3.52,,,,1.4,OER
+DyTeO3,Perovskite,-,Alkaline media,2,4,1.13,0.717,0.09,2.11,3.53,,,,1.58,OER
+DyTiO3,Perovskite,-,Alkaline media,2,4,1.13,0.569,0.69,2.74,4,,,,1.5,OER
+DyUO3,Perovskite,-,Alkaline media,2,4,1.13,1.012,0.54,2.14,3.83,,,,1.68,OER
+DyVO3,Perovskite,-,Alkaline media,2,4,1.13,0.61,0.32,1.04,3.76,,,,1.55,OER
+DyWO3,Perovskite,-,Alkaline media,2,4,1.13,0.66,-0.85,-0.84,2.63,,,,2.38,OER
+DyZrO3,Perovskite,-,Alkaline media,2,4,1.13,0.747,1.25,4.38,4.28,,,,1.93,OER
+ErAlO3,Perovskite,-,Alkaline media,3,3,0.975,0.468,1.34,3.89,4.46,,,,1.87,OER
+ErBiO3,Perovskite,-,Alkaline media,3,3,0.975,1.053,1.01,2.96,4.15,,,,1.62,OER
+ErCoO3,Perovskite,-,Alkaline media,3,3,0.975,0.578,1.25,3.03,4.38,,,,0.86,OER
+ErCrO3,Perovskite,-,Alkaline media,3,3,0.975,0.615,0.57,1.32,3.95,,,,1.44,OER
+ErCuO3,Perovskite,-,Alkaline media,3,3,0.975,0.54,1.38,3.61,4.43,,,,1.47,OER
+ErFeO3,Perovskite,-,Alkaline media,3,3,0.975,0.609,1.21,3.12,4.42,,,,0.67,OER
+ErGaO3,Perovskite,-,Alkaline media,3,3,0.975,0.547,1.75,4.52,4.82,,,,1.86,OER
+ErInO3,Perovskite,-,Alkaline media,3,3,0.975,0.78,1.44,4.31,4.56,,,,1.87,OER
+ErIrO3,Perovskite,-,Alkaline media,3,3,0.975,0.68,0.47,1.67,3.71,,,,0.66,OER
+ErMnO3,Perovskite,-,Alkaline media,3,3,0.975,0.602,1.14,2.62,4.35,,,,0.75,OER
+ErMoO3,Perovskite,-,Alkaline media,3,3,0.975,0.69,-0.26,-0.05,3.1,,,,2.09,OER
+ErNbO3,Perovskite,-,Alkaline media,3,3,0.975,0.72,-0.34,0.3,3.18,,,,1.86,OER
+ErNiO3,Perovskite,-,Alkaline media,3,3,0.975,0.58,1.19,3.11,4.04,,,,1.22,OER
+ErNpO3,Perovskite,-,Alkaline media,3,3,0.975,1.01,0.67,2.37,3.91,,,,1.89,OER
+ErPdO3,Perovskite,-,Alkaline media,3,3,0.975,0.76,0.77,2.75,3.79,,,,1.27,OER
+ErPuO3,Perovskite,-,Alkaline media,3,3,0.975,1,0.61,2.15,3.95,,,,1.83,OER
+ErRhO3,Perovskite,-,Alkaline media,3,3,0.975,0.665,0.03,1.4,3.23,,,,0.8,OER
+ErRuO3,Perovskite,-,Alkaline media,3,3,0.975,0.68,0.36,1.59,3.67,,,,0.68,OER
+ErSbO3,Perovskite,-,Alkaline media,3,3,0.975,0.707,-0.27,1.65,3.35,,,,1.54,OER
+ErScO3,Perovskite,-,Alkaline media,3,3,0.975,0.808,1.24,4.3,4.29,,,,1.91,OER
+ErTaO3,Perovskite,-,Alkaline media,3,3,0.975,0.72,-0.45,0.43,3.15,,,,2.09,OER
+ErTiO3,Perovskite,-,Alkaline media,3,3,0.975,0.67,0.58,2.5,3.93,,,,1.59,OER
+ErUO3,Perovskite,-,Alkaline media,3,3,0.975,1.025,0.45,1.96,3.77,,,,1.78,OER
+ErVO3,Perovskite,-,Alkaline media,3,3,0.975,0.64,0.27,0.99,3.74,,,,1.55,OER
+EuAlO3,Perovskite,-,Alkaline media,3,3,1.036,0.468,1.96,4.09,4.94,,,,1.72,OER
+EuBiO3,Perovskite,-,Alkaline media,3,3,1.036,1.053,1.05,3.26,4.2,,,,1.36,OER
+EuCoO3,Perovskite,-,Alkaline media,2,4,1.254,0.465,1.55,3.02,4.68,,,,0.96,OER
+EuCrO3,Perovskite,-,Alkaline media,2,4,1.254,0.48,0.71,1.48,4.09,,,,1.38,OER
+EuCuO3,Perovskite,-,Alkaline media,3,3,1.036,0.54,1.72,4.01,4.75,,,,1.4,OER
+EuFeO3,Perovskite,-,Alkaline media,2,4,1.254,0.585,1.54,3.24,4.8,,,,0.73,OER
+EuGeO3,Perovskite,-,Alkaline media,2,4,1.254,0.46,0.87,3.42,4.32,,,,1.59,OER
+EuInO3,Perovskite,-,Alkaline media,3,3,1.036,0.78,1.85,4.77,4.93,,,,1.69,OER
+EuIrO3,Perovskite,-,Alkaline media,2,4,1.254,0.625,0.53,1.68,3.76,,,,0.69,OER
+EuMnO3,Perovskite,-,Alkaline media,2,4,1.254,0.46,1.49,2.74,4.72,,,,0.8,OER
+EuMoO3,Perovskite,-,Alkaline media,2,4,1.254,0.65,-0.41,-0.22,2.91,,,,2.01,OER
+EuNbO3,Perovskite,-,Alkaline media,2,4,1.254,0.735,-0.82,-0.04,2.79,,,,1.6,OER
+EuNiO3,Perovskite,-,Alkaline media,2,4,1.254,0.48,1.49,3.42,4.31,,,,1.22,OER
+EuNpO3,Perovskite,-,Alkaline media,2,4,1.254,0.925,1.04,2.62,4.25,,,,1.63,OER
+EuOsO3,Perovskite,-,Alkaline media,2,4,1.254,0.63,-0.09,0.68,3.27,,,,1.29,OER
+EuPdO3,Perovskite,-,Alkaline media,2,4,1.254,0.615,0.85,3,3.84,,,,1.23,OER
+EuPtO3,Perovskite,-,Alkaline media,2,4,1.254,0.625,0.48,2.58,3.58,,,,1.25,OER
+EuPuO3,Perovskite,-,Alkaline media,2,4,1.254,0.91,0.93,2.37,4.28,,,,1.58,OER
+EuReO3,Perovskite,-,Alkaline media,2,4,1.254,0.63,-0.19,1.29,3.11,,,,1.4,OER
+EuRhO3,Perovskite,-,Alkaline media,2,4,1.254,0.6,0.01,1.43,3.17,,,,0.83,OER
+EuRuO3,Perovskite,-,Alkaline media,2,4,1.254,0.62,0.29,1.57,3.57,,,,0.66,OER
+EuSbO3,Perovskite,-,Alkaline media,3,3,1.036,0.707,-0.33,1.9,3.35,,,,1.28,OER
+EuScO3,Perovskite,-,Alkaline media,3,3,1.036,0.808,1.93,4.92,4.84,,,,1.72,OER
+EuSnO3,Perovskite,-,Alkaline media,2,4,1.254,1.082,1.81,4.75,5.04,,,,1.69,OER
+EuTaO3,Perovskite,-,Alkaline media,2,4,1.254,0.68,-0.75,0.37,2.91,,,,1.79,OER
+EuTcO3,Perovskite,-,Alkaline media,2,4,1.254,0.645,0.19,1.19,3.41,,,,1.36,OER
+EuTeO3,Perovskite,-,Alkaline media,2,4,1.254,0.717,0.07,2.27,3.56,,,,1.41,OER
+EuTiO3,Perovskite,-,Alkaline media,2,4,1.254,0.569,1.44,3.31,4.8,,,,1.41,OER
+EuUO3,Perovskite,-,Alkaline media,2,4,1.254,1.012,0.81,2.22,4.16,,,,1.53,OER
+EuVO3,Perovskite,-,Alkaline media,2,4,1.254,0.61,0.37,1.15,3.91,,,,1.47,OER
+EuWO3,Perovskite,-,Alkaline media,2,4,1.254,0.66,-0.96,-0.97,2.5,,,,2.32,OER
+EuZrO3,Perovskite,-,Alkaline media,2,4,1.254,0.747,2.38,5.42,5.47,,,,1.81,OER
+F-(Mn1-xNbx)O2,,Fluorine doped (Mn1-xNbx)O2 nanorods coated on Ti foil,1M H2SO4,,,,,,,,,24 h @1.9 V (current decreased from ~8 mA/cm2 to ~5 mA/cm2),371,0.68,OER
+Fe0.5Ir0.5O2,Bimetallic oxide,-,Acidic media,,,,,0.42,1.86,3.52,,,,0.43,OER
+Fe2O3/TiO2NWs/Ti,,"Iron oxide embedded titania
+nanowires loaded on Ti foam",0.5 M H2SO4 ,,,,,,,,,Current density decreased by 26% after 20 h @ 1.9 V vs. SCE ,111,0.33,OER
+FeCo-OOH,Transition metal oxide,Au plated Ni foam,Alkaline media,,,,,,,,,,,0.279,OER
+FeCo-OOH,Transition metal oxide,Au plated Ni foam,Alkaline media,,,,,,,,,,,0.215,OER
+FeCoW-OOH,Transition metal oxide,Au plated Ni foam,Alkaline media,,,,,,,,,,,0.232,OER
+FeCoW-OOH,Transition metal oxide,Au plated Ni foam,Alkaline media,,,,,,,,,550h,,0.191,OER
+FeN4-CNF,,"FeN4 embedded on carbon
+nanofiber integrated with
+electrochemically exfoliated
+graphene on graphite",0.5 M H2SO4 ,,,,,,,,,24 @20mA/cm2,130,0.294,OER
+Fe-N-C900,,Ultra-high surface area graphitic Fe-N-C nanospheres with single-atom iron sites loaded on glassy carbon electrode,0.5 M H2SO4 ,,,,,,,,,"5 mA/cm2 for 10 h, ~40 mV potential increase",141,0.42,OER
+FeP,Metal phosphate,Ti plate,Acidic media,,,,,-,-,-,,3000 cycles,38,0.055,HER
+GdAlO3,Perovskite,-,Alkaline media,3,3,1.024,0.468,1.4,3.9,4.56,,,,1.83,OER
+GdBiO3,Perovskite,-,Alkaline media,3,3,1.024,1.053,1.03,2.98,4.2,,,,1.59,OER
+GdCoO3,Perovskite,-,Alkaline media,3,3,1.024,0.578,1.22,2.98,4.33,,,,0.83,OER
+GdCrO3,Perovskite,-,Alkaline media,3,3,1.024,0.615,0.58,1.34,3.93,,,,1.43,OER
+GdCuO3,Perovskite,-,Alkaline media,3,3,1.024,0.54,1.37,3.65,4.47,,,,1.46,OER
+GdFeO3,Perovskite,-,Alkaline media,3,3,1.024,0.609,1.19,3.1,4.43,,,,0.65,OER
+GdGaO3,Perovskite,-,Alkaline media,3,3,1.024,0.547,1.78,4.5,4.9,,,,1.82,OER
+GdInO3,Perovskite,-,Alkaline media,3,3,1.024,0.78,1.46,4.29,4.64,,,,1.84,OER
+GdIrO3,Perovskite,-,Alkaline media,3,3,1.024,0.68,0.49,1.71,3.72,,,,0.65,OER
+GdMnO3,Perovskite,-,Alkaline media,3,3,1.024,0.602,1.11,2.57,4.38,,,,0.74,OER
+GdMoO3,Perovskite,-,Alkaline media,3,3,1.024,0.69,-0.3,-0.06,3.08,,,,2.09,OER
+GdNbO3,Perovskite,-,Alkaline media,3,3,1.024,0.72,-0.35,0.42,3.19,,,,1.79,OER
+GdNiO3,Perovskite,-,Alkaline media,3,3,1.024,0.58,1.2,3.1,4.04,,,,1.21,OER
+GdNpO3,Perovskite,-,Alkaline media,3,3,1.024,1.01,0.67,2.34,3.93,,,,1.88,OER
+GdPdO3,Perovskite,-,Alkaline media,3,3,1.024,0.76,0.77,2.74,3.8,,,,1.25,OER
+GdPuO3,Perovskite,-,Alkaline media,3,3,1.024,1,0.6,2.13,3.98,,,,1.8,OER
+GdRhO3,Perovskite,-,Alkaline media,3,3,1.024,0.665,0.07,1.44,3.26,,,,0.75,OER
+GdRuO3,Perovskite,-,Alkaline media,3,3,1.024,0.68,0.37,1.62,3.65,,,,0.63,OER
+GdSbO3,Perovskite,-,Alkaline media,3,3,1.024,0.707,-0.28,1.71,3.36,,,,1.51,OER
+GdScO3,Perovskite,-,Alkaline media,3,3,1.024,0.808,1.28,4.32,4.35,,,,1.87,OER
+GdTaO3,Perovskite,-,Alkaline media,3,3,1.024,0.72,-0.4,0.63,3.2,,,,2.05,OER
+GdTiO3,Perovskite,-,Alkaline media,3,3,1.024,0.67,0.51,2.4,3.95,,,,1.53,OER
+GdUO3,Perovskite,-,Alkaline media,3,3,1.024,1.025,0.41,1.93,3.78,,,,1.75,OER
+GdVO3,Perovskite,-,Alkaline media,3,3,1.024,0.64,0.29,1.01,3.74,,,,1.55,OER
+HfCoO3,Perovskite,-,Alkaline media,4,2,0.72,0.709,1.14,2.91,4.25,,,,0.86,OER
+HfCrO3,Perovskite,-,Alkaline media,4,2,0.72,0.765,0.53,1.5,3.92,,,,1.43,OER
+HfCuO3,Perovskite,-,Alkaline media,4,2,0.72,0.63,1.38,3.72,4.45,,,,1.46,OER
+HfFeO3,Perovskite,-,Alkaline media,4,2,0.72,0.716,1.22,3.08,4.41,,,,0.69,OER
+HfGeO3,Perovskite,-,Alkaline media,4,2,0.72,0.73,0.57,2.9,3.94,,,,1.88,OER
+HfMgO3,Perovskite,-,Alkaline media,4,2,0.72,0.71,1.29,4.1,4.34,,,,1.87,OER
+HfMnO3,Perovskite,-,Alkaline media,4,2,0.72,0.795,1.13,2.59,4.34,,,,0.78,OER
+HfNiO3,Perovskite,-,Alkaline media,4,2,0.72,0.59,1.19,3.16,4.02,,,,1.23,OER
+HfNpO3,Perovskite,-,Alkaline media,4,2,0.72,1.1,0.73,2.39,3.89,,,,1.95,OER
+HfPdO3,Perovskite,-,Alkaline media,4,2,0.72,0.75,0.68,2.75,3.77,,,,1.3,OER
+HfPtO3,Perovskite,-,Alkaline media,4,2,0.72,0.7,0.27,2.28,3.48,,,,1.38,OER
+HfTiO3,Perovskite,-,Alkaline media,4,2,0.72,0.86,0.6,2.44,3.94,,,,1.62,OER
+HfVO3,Perovskite,-,Alkaline media,4,2,0.72,0.79,0.29,1.22,3.72,,,,1.54,OER
+HfZnO3,Perovskite,-,Alkaline media,4,2,0.72,0.73,1.53,4.38,4.57,,,,1.88,OER
+HoAlO3,Perovskite,-,Alkaline media,3,3,1.027,0.468,1.51,4.02,4.52,,,,1.89,OER
+HoBiO3,Perovskite,-,Alkaline media,3,3,1.027,1.053,1.06,3.1,4.16,,,,1.62,OER
+HoCoO3,Perovskite,-,Alkaline media,3,3,1.027,0.578,1.29,2.95,4.37,,,,0.87,OER
+HoCrO3,Perovskite,-,Alkaline media,3,3,1.027,0.615,0.56,1.25,3.94,,,,1.45,OER
+HoCuO3,Perovskite,-,Alkaline media,3,3,1.027,0.54,1.45,3.77,4.46,,,,1.48,OER
+HoFeO3,Perovskite,-,Alkaline media,3,3,1.027,0.609,1.25,3.07,4.44,,,,0.67,OER
+HoGaO3,Perovskite,-,Alkaline media,3,3,1.027,0.547,1.92,4.74,4.89,,,,1.86,OER
+HoInO3,Perovskite,-,Alkaline media,3,3,1.027,0.78,1.55,4.53,4.61,,,,1.87,OER
+HoIrO3,Perovskite,-,Alkaline media,3,3,1.027,0.68,0.37,1.5,3.59,,,,0.67,OER
+HoMnO3,Perovskite,-,Alkaline media,3,3,1.027,0.602,1.2,2.58,4.37,,,,0.76,OER
+HoMoO3,Perovskite,-,Alkaline media,3,3,1.027,0.69,-0.39,-0.2,2.96,,,,2.11,OER
+HoNbO3,Perovskite,-,Alkaline media,3,3,1.027,0.72,-0.6,-0.01,2.96,,,,1.86,OER
+HoNiO3,Perovskite,-,Alkaline media,3,3,1.027,0.58,1.23,3.22,4.05,,,,1.24,OER
+HoNpO3,Perovskite,-,Alkaline media,3,3,1.027,1.01,0.75,2.39,3.92,,,,1.89,OER
+HoPdO3,Perovskite,-,Alkaline media,3,3,1.027,0.76,0.77,2.83,3.77,,,,1.28,OER
+HoPuO3,Perovskite,-,Alkaline media,3,3,1.027,1,0.68,2.16,3.99,,,,1.81,OER
+HoRhO3,Perovskite,-,Alkaline media,3,3,1.027,0.665,-0.08,1.28,3.12,,,,0.83,OER
+HoRuO3,Perovskite,-,Alkaline media,3,3,1.027,0.68,0.23,1.43,3.52,,,,0.68,OER
+HoSbO3,Perovskite,-,Alkaline media,3,3,1.027,0.707,-0.29,1.71,3.34,,,,1.55,OER
+HoScO3,Perovskite,-,Alkaline media,3,3,1.027,0.808,1.42,4.55,4.34,,,,1.9,OER
+HoTaO3,Perovskite,-,Alkaline media,3,3,1.027,0.72,-0.8,0.06,2.85,,,,2.08,OER
+HoTiO3,Perovskite,-,Alkaline media,3,3,1.027,0.67,0.73,2.74,3.98,,,,1.58,OER
+HoUO3,Perovskite,-,Alkaline media,3,3,1.027,1.025,0.51,1.97,3.77,,,,1.77,OER
+HoVO3,Perovskite,-,Alkaline media,3,3,1.027,0.64,0.24,0.9,3.72,,,,1.56,OER
+InFeCo-Gel,,"A hybrid organic−inorganic polymeric dual network gel electrocatalyst based on In, Fe, Co elements loaded on glassy carbon disk",0.5 M H2SO4 ,,,,,,,,,"1.85 V vs. RHE for 40 h, current density decreased from 5
+mA/cm2 to 4.5 mA/cm2",99,0.71,OER
+InMoO3,Perovskite,-,Alkaline media,3,3,0.78,0.69,-0.25,-0.46,2.95,,,,2.18,OER
+InNbO3,Perovskite,-,Alkaline media,3,3,0.78,0.72,-1.11,-1.29,2.39,,,,2.44,OER
+InTaO3,Perovskite,-,Alkaline media,3,3,0.78,0.72,-1.35,-1.58,2.17,,,,2.52,OER
+Ir,Noble metal,Cation exchange membrane itself,"Acidic media, PEM cell, 80C",,,,,,,,,1200h+,57,,OER
+Ir,Noble metal,C support,Alkaline media,,,,,,,,,,164,1.656,OER
+Ir,Noble metal,,Acidic media,,,,,,,,,,,,OER
+Ir/C,Noble metal,Carbon,Alkaline media,,,,,-,-,-,,,,,HER
+Ir/C,Noble metal,Carbon,Acidic media,,,,,-,-,-,,,,,HER
+Ir/RuO,Noble metal oxide,Cation exchange membrane itself,"Acidic media, PEM cell, 80C",,,,,,,,,700h,56,,OER
+Ir1−2xSnxNbxO2,Noble metal oxide,Tin foil,Acidic media,,,,,,,,,44h,,1.75,OER
+"IrNi3,3 ",Noble bimetallic alloy,,Acidic media,,,,,,,,,,,,OER
+IrO2,Bimetallic oxide,-,Acidic media,,,,,0.09,1.47,3.21,,,,0.51,OER
+IrO2,Bimetallic oxide,-,Acidic media,,,,,0.08,1.56,3.27,,,,0.48,OER
+IrO2,Bimetallic oxide,-,Acidic media,,,,,0.96,2.35,4.09,,,,0.51,OER
+IrO2,Bimetallic oxide,-,Acidic media,,,,,0.46,2.12,3.57,,,,0.42,OER
+IrO2 ,Noble metal oxide,Cation exchange membrane itself,"Acidic media, PEM cell, 80C",,,,,,,,,1200h+,50,,OER
+IrO2 ,Noble metal oxide,ATO nws,"Acidic media, PEM cell, 80C",,,,,,,,,646h,,1.62,OER
+IrO2 ,Noble metal oxide,,,,,,,,,,,,96,0.45,OER
+IrO2 ,Noble metal oxide,mesoporous ATO,"Acidic media, PEM cell, 80C",,,,,,,,,15h,,1.5,OER
+IrO2 ,Noble metal oxide,,Acidic media,,,,,,,,,,,,OER
+IrO2 ,Noble metal oxide,,Alkaline media,,,,,,,,,,,,OER
+IrO2 ,Noble metal oxide,,Acidic media,,,,,,,,,,,,OER
+IrOx/SrIrO3,Metal oxide,,Acidic media,,,,,,,,,,,0.27,OER
+IrPd (Ir23Pd77),Noble bimetallic alloy,C support,Alkaline media,,,,,,,,,,164,1.628,OER
+KBiO3,Perovskite,-,Alkaline media,1,5,1.5,0.76,1.85,4.51,5.05,,,,1.43,OER
+KCrO3,Perovskite,-,Alkaline media,1,5,1.5,0.468,1.21,2.47,4.48,,,,1.15,OER
+KHfO3,Perovskite,-,Alkaline media,1,4,1.5,0.72,2.15,5,4.96,,,,1.62,OER
+KIrO3,Perovskite,-,Alkaline media,1,5,1.5,0.57,1.05,2.55,4.14,,,,0.67,OER
+KMnO3,Perovskite,-,Alkaline media,1,5,1.5,0.33,1.85,3.34,4.98,,,,0.75,OER
+KMoO3,Perovskite,-,Alkaline media,1,5,1.5,0.535,-0.18,-0.13,3.05,,,,1.95,OER
+KNbO3,Perovskite,-,Alkaline media,1,5,1.5,0.638,-0.65,0.5,2.88,,,,1.15,OER
+KNpO3,Perovskite,-,Alkaline media,1,5,1.5,0.75,1.24,3.2,4.38,,,,1.52,OER
+KOsO3,Perovskite,-,Alkaline media,1,5,1.5,0.575,-0.15,0.49,3.02,,,,1.3,OER
+KPaO3,Perovskite,-,Alkaline media,1,5,1.5,0.88,-0.88,1.9,2.79,,,,1.55,OER
+KPbO3,Perovskite,-,Alkaline media,1,4,1.5,0.774,2.14,4.89,5.12,,,,1.53,OER
+KPtO3,Perovskite,-,Alkaline media,1,5,1.5,0.57,1.04,3.27,3.89,,,,1.1,OER
+KPuO3,Perovskite,-,Alkaline media,1,5,1.5,0.74,1.18,3.07,4.35,,,,1.5,OER
+KReO3,Perovskite,-,Alkaline media,1,5,1.5,0.58,0.09,1.96,3.3,,,,1.27,OER
+KRhO3,Perovskite,-,Alkaline media,1,5,1.5,0.55,0.57,2.29,3.46,,,,0.68,OER
+KRuO3,Perovskite,-,Alkaline media,1,5,1.5,0.565,1.23,2.86,4.16,,,,0.4,OER
+KSbO3,Perovskite,-,Alkaline media,1,5,1.5,0.6,0.86,3.49,4.39,,,,1.4,OER
+KSnO3,Perovskite,-,Alkaline media,1,4,1.5,1.082,1.79,4.57,4.82,,,,1.55,OER
+KTaO3,Perovskite,-,Alkaline media,1,5,1.5,0.69,0.68,3.52,4.2,,,,1.61,OER
+KTaO3,Perovskite,-,Alkaline media,1,5,1.5,0.69,-1.15,0.05,2.38,,,,1.31,OER
+KTcO3,Perovskite,-,Alkaline media,1,5,1.5,0.6,0.65,2,3.83,,,,1.23,OER
+KTiO3,Perovskite,-,Alkaline media,1,4,1.5,0.569,2.3,4.83,4.97,,,,1.3,OER
+KUO3,Perovskite,-,Alkaline media,1,5,1.5,0.8,1.18,3.02,4.32,,,,1.45,OER
+KVO3,Perovskite,-,Alkaline media,1,5,1.5,0.452,0.92,2.23,4.32,,,,1.16,OER
+KWO3,Perovskite,-,Alkaline media,1,5,1.5,0.62,-1.2,-1.63,2.12,,,,2.52,OER
+KZrO3,Perovskite,-,Alkaline media,1,4,1.5,0.747,2.22,5.06,5.02,,,,1.61,OER
+La0.5Sr1.5Ni0.7Fe0.3O4+d,Transition metal Oxide,,Alkaline media,,,,,,,,,,,,OER
+La0.7 (Ba 0.5 Sr 0.5 0.3 Co 0.8 Fe 0.2 O 3-δ ,,,,,,,,,,,,,-,0.48,OER
+LaAlO3,Perovskite,-,Alkaline media,3,3,1.189,0.468,2.93,4.27,5.81,,,,1.7,OER
+LaAlO3,Perovskite,-,Alkaline media,3,3,1.189,0.468,2,4.93,4.8,,,,1.7,OER
+LaBiO3,Perovskite,-,Alkaline media,3,3,1.189,1.053,1.13,3.24,4.26,,,,1.4,OER
+LaCoO3,Perovskite,-,Alkaline media,3,3,1.189,0.578,0.4,2.43,3.51,,,,0.8,OER
+LaCrO3,Perovskite,-,Alkaline media,3,3,1.189,0.615,0.66,1.38,4.04,,,,1.43,OER
+LaCuO3,Perovskite,-,Alkaline media,3,3,1.189,0.54,2.05,4.59,4.76,,,,1.31,OER
+LaFeO3,Perovskite,-,Alkaline media,3,3,1.189,0.609,1.45,3.17,4.72,,,,0.49,OER
+LaGaO3,Perovskite,-,Alkaline media,3,3,1.189,0.547,2.89,4.25,5.84,,,,1.66,OER
+LaGaO3,Perovskite,-,Alkaline media,3,3,1.189,0.547,1.98,4.91,4.92,,,,1.7,OER
+LaHfO3,Perovskite,-,Alkaline media,3,4,1.189,0.72,-2.84,-2.96,0.83,,,,2.86,OER
+LaInO3,Perovskite,-,Alkaline media,3,3,1.189,0.78,2.07,4.49,5.15,,,,1.73,OER
+LaIrO3,Perovskite,-,Alkaline media,3,3,1.189,0.68,0.14,1.69,3.41,,,,0.72,OER
+LaMgO3,Perovskite,-,Alkaline media,3,2,1.189,0.71,2.19,5.25,4.86,,,,1.83,OER
+LaMnO3,Perovskite,-,Alkaline media,3,3,1.189,0.602,1.11,2.38,4.43,,,,0.82,OER
+LaMoO3,Perovskite,-,Alkaline media,3,3,1.189,0.69,-0.53,-0.16,2.88,,,,2.09,OER
+LaNbO3,Perovskite,-,Alkaline media,3,3,1.189,0.72,-0.69,0.22,2.92,,,,1.62,OER
+LaNiO3,Perovskite,-,Alkaline media,3,3,1.189,0.58,1.95,4.34,5.08,,,,1.16,OER
+LaNiO3,Perovskite,-,Alkaline media,3,3,1.189,0.58,1.39,3.5,4.47,,,,0.88,OER
+LaNiO3,Perovskite,,,,,,,,,,,,,,OER
+LaNpO3,Perovskite,-,Alkaline media,3,3,1.189,1.01,0.96,2.43,4.12,,,,1.79,OER
+LaPdO3,Perovskite,-,Alkaline media,3,3,1.189,0.76,0.96,3.42,3.78,,,,1.23,OER
+LaPtO3,Perovskite,-,Alkaline media,3,2,1.189,0.7,0.45,2.84,3.39,,,,1.16,OER
+LaPuO3,Perovskite,-,Alkaline media,3,3,1.189,1,0.86,2.27,4.22,,,,1.68,OER
+LaRhO3,Perovskite,-,Alkaline media,3,3,1.189,0.665,-0.39,1.82,2.64,,,,1.05,OER
+LaRuO3,Perovskite,-,Alkaline media,3,3,1.189,0.68,0.15,1.67,3.42,,,,0.68,OER
+LaSbO3,Perovskite,-,Alkaline media,3,3,1.189,0.707,-0.38,1.88,3.29,,,,1.3,OER
+LaScO3,Perovskite,-,Alkaline media,3,3,1.189,0.808,2.55,5.57,5.57,,,,1.79,OER
+LaScO3,Perovskite,-,Alkaline media,3,3,1.189,0.808,1.65,4.64,4.44,,,,1.76,OER
+LaTaO3,Perovskite,-,Alkaline media,3,3,1.189,0.72,-0.86,0.46,2.83,,,,1.97,OER
+LaTiO3,Perovskite,-,Alkaline media,3,3,1.189,0.67,-0.06,1.34,3.5,,,,0.93,OER
+LaTiO3,Perovskite,-,Alkaline media,3,3,1.189,0.67,-1.33,-1.86,2.06,,,,2.68,OER
+LaUO3,Perovskite,-,Alkaline media,3,3,1.189,1.025,0.65,2.08,3.95,,,,1.59,OER
+LaVO3,Perovskite,-,Alkaline media,3,3,1.189,0.64,0.37,1.08,3.83,,,,1.52,OER
+LaZnO3,Perovskite,-,Alkaline media,3,2,1.189,0.73,2.37,5.16,5.1,,,,1.55,OER
+LiHfO3,Perovskite,-,Alkaline media,1,4,0.757,0.72,2.5,5.35,5.06,,,,1.62,OER
+LiSiO3,Perovskite,-,Alkaline media,1,4,0.757,0.33,2.16,4.7,5.11,,,,1.31,OER
+LiSnO3,Perovskite,-,Alkaline media,1,4,0.757,1.082,2.32,5.1,5,,,,1.55,OER
+LiTiO3,Perovskite,-,Alkaline media,1,4,0.757,0.569,2.77,5.32,5.16,,,,1.54,OER
+LiZrO3,Perovskite,-,Alkaline media,1,4,0.757,0.747,2.61,5.45,5.07,,,,1.61,OER
+LuAlO3,Perovskite,-,Alkaline media,3,3,0.957,0.468,1.49,4.06,4.53,,,,1.92,OER
+LuBiO3,Perovskite,-,Alkaline media,3,3,0.957,1.053,1.09,3.09,4.19,,,,1.66,OER
+LuCoO3,Perovskite,-,Alkaline media,3,3,0.957,0.578,1.21,2.84,4.27,,,,0.86,OER
+LuCrO3,Perovskite,-,Alkaline media,3,3,0.957,0.615,0.56,1.38,3.92,,,,1.44,OER
+LuCuO3,Perovskite,-,Alkaline media,3,3,0.957,0.54,1.46,3.88,4.47,,,,1.47,OER
+LuFeO3,Perovskite,-,Alkaline media,3,3,0.957,0.609,1.26,3.02,4.42,,,,0.65,OER
+LuGaO3,Perovskite,-,Alkaline media,3,3,0.957,0.547,1.87,4.64,4.9,,,,1.9,OER
+LuInO3,Perovskite,-,Alkaline media,3,3,0.957,0.78,1.54,4.43,4.63,,,,1.91,OER
+LuIrO3,Perovskite,-,Alkaline media,3,3,0.957,0.68,0.26,1.62,3.56,,,,0.66,OER
+LuMnO3,Perovskite,-,Alkaline media,3,3,0.957,0.602,1.19,2.51,4.36,,,,0.75,OER
+LuMoO3,Perovskite,-,Alkaline media,3,3,0.957,0.69,-0.44,-0.13,3,,,,2.13,OER
+LuNbO3,Perovskite,-,Alkaline media,3,3,0.957,0.72,-0.56,0.27,3.05,,,,1.88,OER
+LuNiO3,Perovskite,-,Alkaline media,3,3,0.957,0.58,1.24,3.29,4.04,,,,1.23,OER
+LuNpO3,Perovskite,-,Alkaline media,3,3,0.957,1.01,0.76,2.37,3.91,,,,1.94,OER
+LuPdO3,Perovskite,-,Alkaline media,3,3,0.957,0.76,0.72,2.87,3.77,,,,1.28,OER
+LuPuO3,Perovskite,-,Alkaline media,3,3,0.957,1,0.68,2.18,3.97,,,,1.87,OER
+LuRhO3,Perovskite,-,Alkaline media,3,3,0.957,0.665,-0.02,1.45,3.18,,,,0.79,OER
+LuRuO3,Perovskite,-,Alkaline media,3,3,0.957,0.68,0.24,1.58,3.56,,,,0.67,OER
+LuSbO3,Perovskite,-,Alkaline media,3,3,0.957,0.707,-0.29,1.66,3.32,,,,1.58,OER
+LuScO3,Perovskite,-,Alkaline media,3,3,0.957,0.808,1.39,4.53,4.35,,,,1.94,OER
+LuTaO3,Perovskite,-,Alkaline media,3,3,0.957,0.72,-0.73,0.34,2.98,,,,2.11,OER
+LuTiO3,Perovskite,-,Alkaline media,3,3,0.957,0.67,0.69,2.53,3.93,,,,1.59,OER
+LuUO3,Perovskite,-,Alkaline media,3,3,0.957,1.025,0.52,1.99,3.77,,,,1.81,OER
+LuVO3,Perovskite,-,Alkaline media,3,3,0.957,0.64,0.27,1.04,3.71,,,,1.55,OER
+MgAlO3,Perovskite,-,Alkaline media,2,3,0.71,0.468,2.04,4.95,4.91,,,,1.67,OER
+MgScO3,Perovskite,-,Alkaline media,2,3,0.71,0.808,2.73,5.36,5.23,,,,1.5,OER
+MgYO3,Perovskite,-,Alkaline media,2,3,0.71,0.988,2.65,5.34,5.19,,,,1.46,OER
+Mn0.67Sb0.33O2,,Mn−Sb rutile oxide alloys on Pt,1M H2SO4,,,,,,,,,chronopotentiometry 27 h at 1.72 V & 2 h at 10 mA/cm2,75,0.52,OER
+MnOx-1,,electrodeposited on FTO,pH = 2.5,,,,,,,,,1h at 0.002 mA/cm2,653,0.5,OER
+Mo0.5Ir0.5O3,Bimetallic oxide,-,Acidic media,,,,,1.24,2.95,4.53,,,,0.48,OER
+Mo0.5Ir0.5O3,Bimetallic oxide,-,Acidic media,,,,,0.86,2.58,3.85,,,,0.49,OER
+Mo0.5Ir0.5O3,Bimetallic oxide,-,Acidic media,,,,,0.95,2.53,3.87,,,,0.35,OER
+Mo0.5Ir0.5O3,Bimetallic oxide,-,Acidic media,,,,,1.68,3.41,4.7,,,,0.5,OER
+Mo2C,"Transition metal carbide, in carbon martix4",,Acidic media,,,,,-,-,-,,12h,41,0.078,HER
+MoC,"Transition metal carbide, in carbon martix5",Glassy carbon,Acidic media,,,,,-,-,-,,1000 cycles,121.6,0.34,HER
+MoC,"Transition metal carbide, in carbon martix5",Glassy carbon,Acidic media,,,,,-,-,-,,1000 cycles,121.6,0.34,HER
+MoN,Transition metal nitride,Glassy carbon,Acidic media,,,,,,,,,2000 cycles,54.5,,
+MoP,Transition metal phosphate,Glassy carbon,Acidic media,,,,,-,-,-,,5000 cycles,50,0.15,HER
+MoP/S,Transition metal phosphate,Ti foil,Acidic media,,,,,,,,,1000 cycles,50,0.064,
+MoS2,Transition metal dichalcogenide,Graphene,Acidic media,,,,,-,-,-,"0.08 eV for Mo edges, 0.18 for S edges",,41,0.25,HER
+MoS2,Transition metal dichalcogenide,Glassy carbon,Acidic media,,,,,,,,,1000 cycles,41,,
+MoS2,Transition metal dichalcogenide,FTO,Acidic media,,,,,,,,,,50,,
+MoS2,Transition metal dichalcogenide,,Acidic media,,,,,-,-,-,"0.08 eV for Mo edges, 0.18 for S edges",,,,HER
+MoS2 ,Transition metal dichalcogenide,Au,Acidic media,,,,,-,-,-,"0.08 eV for Mo edges, 0.18 for S edges",,69,0.17,HER
+MoS2 ,Transition metal dichalcogenide,,,,,,,-,-,-,,,87.5,0.298,HER
+MoS2 ,Transition metal dichalcogenide,Carbon black,Acidic media,,,,,-,-,-,"0.08 eV for edges, 1.92 eV for basal plane",,,0.175,HER
+MoS2 (1T),Transition metal dichalcogenide,,Acidic media,,,,,-,-,-,,,52,0.152,HER
+MoS2 (2H),Transition metal dichalcogenide,,,,,,,-,-,-,,,,,HER
+MoS2 (3R),Transition metal dichalcogenide,,,,,,,,,,,,,,
+MoS2 :Co,Transition metal dichalcogenide,,Acidic media,,,,,,,,"0.10 for S edges, 0.08 eV for Mo edges ",,,,
+MoS2:Ni,Transition metal dichalcogenide,,Alkaline media,,,,,-,-,-,,"50h, 1200 Cycles",60.5,0.207,HER
+MoS3,Transition metal dichalcogenide,Glassy carbon,Acidic media,,,,,-,-,-,,,40,0.2,HER
+MoSe2,Transition metal dichalcogenide,,Acidic media,,,,,,,,,1.67h,61,0.159,
+MoTe2,"2D TMD, 1T'",,,,,,,,,,,,,0.29,OER
+NaBiO3,Perovskite,-,Alkaline media,1,5,1.134,0.76,1.17,3.66,4.33,,,,1.33,OER
+NaCrO3,Perovskite,-,Alkaline media,1,5,1.134,0.468,1.07,2.05,4.38,,,,1.24,OER
+NaHfO3,Perovskite,-,Alkaline media,1,4,1.134,0.72,2.13,5.03,4.98,,,,1.67,OER
+NaIrO3,Perovskite,-,Alkaline media,1,5,1.134,0.57,0.82,2.05,3.88,,,,0.73,OER
+NaMnO3,Perovskite,-,Alkaline media,1,5,1.134,0.33,1.82,3.18,4.95,,,,0.78,OER
+NaMoO3,Perovskite,-,Alkaline media,1,5,1.134,0.535,-0.28,-0.31,2.96,,,,2.05,OER
+NaNbO3,Perovskite,-,Alkaline media,1,5,1.134,0.638,-0.6,0.71,2.9,,,,0.97,OER
+NaNpO3,Perovskite,-,Alkaline media,1,5,1.134,0.75,1.27,2.91,4.35,,,,1.52,OER
+NaOsO3,Perovskite,-,Alkaline media,1,5,1.134,0.575,-0.38,0.17,2.79,,,,1.38,OER
+NaPtO3,Perovskite,-,Alkaline media,1,5,1.134,0.57,0.9,3.15,3.69,,,,1.16,OER
+NaPuO3,Perovskite,-,Alkaline media,1,5,1.134,0.74,1.21,2.8,4.35,,,,1.48,OER
+NaReO3,Perovskite,-,Alkaline media,1,5,1.134,0.58,-0.19,1.73,2.95,,,,1.32,OER
+NaRhO3,Perovskite,-,Alkaline media,1,5,1.134,0.55,0.35,1.89,3.23,,,,0.81,OER
+NaRuO3,Perovskite,-,Alkaline media,1,5,1.134,0.565,0.57,1.98,3.63,,,,0.67,OER
+NaSbO3,Perovskite,-,Alkaline media,1,5,1.134,0.6,0.59,3.19,4.12,,,,1.37,OER
+NaSnO3,Perovskite,-,Alkaline media,1,4,1.134,1.082,1.78,4.66,4.88,,,,1.65,OER
+NaTaO3,Perovskite,-,Alkaline media,1,5,1.134,0.69,-1.24,-0.04,2.26,,,,1.43,OER
+NaTcO3,Perovskite,-,Alkaline media,1,5,1.134,0.6,0.46,1.59,3.55,,,,1.29,OER
+NaTiO3,Perovskite,-,Alkaline media,1,4,1.134,0.569,2.47,4.99,5.14,,,,1.29,OER
+NaUO3,Perovskite,-,Alkaline media,1,5,1.134,0.8,1.2,2.72,4.3,,,,1.41,OER
+NaVO3,Perovskite,-,Alkaline media,1,5,1.134,0.452,0.77,1.81,4.22,,,,1.25,OER
+NaWO3,Perovskite,-,Alkaline media,1,5,1.134,0.62,-1.33,-1.85,2,,,,2.62,OER
+NaZrO3,Perovskite,-,Alkaline media,1,4,1.134,0.747,2.19,5.07,5.03,,,,1.66,OER
+NbS2,"2D TMD, 2H",,,,,,,,,,,,,0.46,OER
+NbSe2,"2D TMD, 2H",,,,,,,,,,,,,0.34,OER
+NbTe2,"2D TMD, 1T",,,,,,,,,,,,,0.26,OER
+NbTe2,"2D TMD, 2H",,,,,,,,,,,,,0.45,OER
+NC,,"Nitrogen-doped carbon loaded
+on glassy carbon disk",0.1 M HClO4,,,,,,,,,-,400,0.39,OER
+NC@G,,Ultrathin nitrogen-doped holey carbon@graphene loaded on glassy carbon electrode,0.5 M H2SO4 ,,,,,,,,,2h @1mA,297.5,0.37,OER
+NCB(IL),,Nitrogenated-graphite-encapsulated carbon black loaded on glassy carbon electrode,0.5 M H2SO4 ,,,,,,,,,Deactivation observed after 5 cycles of cyclic voltammetry,226,0.47,OER
+N-Co-O-C,,"N−Co−O triply doped highly
+crystalline porous carbon loaded on glassy carbon electrode",0.5 M H2SO4 ,,,,,,,,,Obvious deactivation after 2 h @ 10 mA/cm2,247,0.66,OER
+NdAlO3,Perovskite,-,Alkaline media,3,3,1.131,0.468,1.77,4.09,4.73,,,,1.68,OER
+NdBiO3,Perovskite,-,Alkaline media,3,3,1.131,1.053,1.07,3.22,4.27,,,,1.4,OER
+NdCoO3,Perovskite,-,Alkaline media,3,3,1.131,0.578,1.48,3.54,4.69,,,,0.83,OER
+NdCrO3,Perovskite,-,Alkaline media,3,3,1.131,0.615,0.55,1.22,3.93,,,,1.48,OER
+NdCuO3,Perovskite,-,Alkaline media,3,3,1.131,0.54,1.53,3.9,4.55,,,,1.46,OER
+NdFeO3,Perovskite,-,Alkaline media,2,4,1.32,0.585,1.26,3.27,4.49,,,,0.69,OER
+NdGaO3,Perovskite,-,Alkaline media,3,3,1.131,0.547,2.86,5.79,5.83,,,,1.7,OER
+NdGeO3,Perovskite,-,Alkaline media,2,4,1.32,0.46,0.77,3.28,4.13,,,,1.62,OER
+NdInO3,Perovskite,-,Alkaline media,3,3,1.131,0.78,1.74,4.64,4.83,,,,1.7,OER
+NdIrO3,Perovskite,-,Alkaline media,2,4,1.32,0.625,0.44,1.68,3.72,,,,0.7,OER
+NdMnO3,Perovskite,-,Alkaline media,2,4,1.32,0.46,1.19,2.75,4.44,,,,0.81,OER
+NdMoO3,Perovskite,-,Alkaline media,2,4,1.32,0.65,-0.34,-0.13,3,,,,2.06,OER
+NdNbO3,Perovskite,-,Alkaline media,2,4,1.32,0.735,-0.5,0.27,3.06,,,,1.61,OER
+NdNiO3,Perovskite,-,Alkaline media,2,4,1.32,0.48,1.28,3.37,4.19,,,,1.24,OER
+NdNpO3,Perovskite,-,Alkaline media,2,4,1.32,0.925,0.84,2.47,4.03,,,,1.72,OER
+NdOsO3,Perovskite,-,Alkaline media,2,4,1.32,0.63,0.03,0.77,3.4,,,,1.34,OER
+NdPdO3,Perovskite,-,Alkaline media,2,4,1.32,0.615,0.81,2.93,3.84,,,,1.25,OER
+NdPtO3,Perovskite,-,Alkaline media,2,4,1.32,0.625,0.36,2.48,3.56,,,,1.28,OER
+NdPuO3,Perovskite,-,Alkaline media,2,4,1.32,0.91,0.72,2.25,4.08,,,,1.64,OER
+NdReO3,Perovskite,-,Alkaline media,2,4,1.32,0.63,-0.1,1.15,3.25,,,,1.46,OER
+NdRhO3,Perovskite,-,Alkaline media,2,4,1.32,0.6,0.01,1.39,3.2,,,,0.88,OER
+NdRuO3,Perovskite,-,Alkaline media,2,4,1.32,0.62,0.34,1.59,3.63,,,,0.7,OER
+NdSbO3,Perovskite,-,Alkaline media,3,3,1.131,0.707,-0.27,1.84,3.37,,,,1.3,OER
+NdScO3,Perovskite,-,Alkaline media,3,3,1.131,0.808,1.59,4.6,4.48,,,,1.74,OER
+NdSnO3,Perovskite,-,Alkaline media,2,4,1.32,1.082,1.59,4.55,4.8,,,,1.68,OER
+NdTaO3,Perovskite,-,Alkaline media,2,4,1.32,0.68,-0.52,0.57,3.11,,,,1.93,OER
+NdTcO3,Perovskite,-,Alkaline media,2,4,1.32,0.645,0.2,1.17,3.46,,,,1.41,OER
+NdTeO3,Perovskite,-,Alkaline media,2,4,1.32,0.717,0.06,2.18,3.55,,,,1.44,OER
+NdTiO3,Perovskite,-,Alkaline media,3,3,1.131,0.67,-0.28,0.94,3.28,,,,1.1,OER
+NdUO3,Perovskite,-,Alkaline media,2,4,1.32,1.012,0.54,2.07,3.86,,,,1.57,OER
+NdVO3,Perovskite,-,Alkaline media,3,3,1.131,0.64,0.2,0.71,3.65,,,,1.71,OER
+NdWO3,Perovskite,-,Alkaline media,2,4,1.32,0.66,-0.92,-0.88,2.57,,,,2.37,OER
+NdZrO3,Perovskite,-,Alkaline media,2,4,1.32,0.747,1.33,4.28,4.31,,,,1.86,OER
+Ni,Transition metal,,Alkaline media,,,,,-,-,-,,,,0.325,HER
+Ni/N-doped,Transition metal,,Alkaline media,,,,,-,-,-,,,,,HER
+Ni0.5Mn0.5Sb1.7Oy,,coated on antimony-doped tin oxide (ATO),1 M H2SO4 ,,,,,,,,,Overpotential rise from ~ 670 mV to ~ 735 mV for 168 h,60,0.67,OER
+Ni2P,Metal phosphide,Ti foil,Acidic media,,,,,-,-,-,,500 cycles,46,0.13,HER
+Ni2Ta,,Bulk intermetallic Ni2Ta,0.5 M H2SO4 ,,,,,,,,,66 h,140,0.57,OER
+Ni42 stainless steel anode + Fe2O3,,Fe2O3 hematite particles suspended in sulfuric acid as the electrolyte,0.5 M H2SO4 ,,,,,,,,,"1.26 V vs. RHE in 0.5 M H2SO4, j = 30 mA/cm2",189,0.3,OER
+Ni5P4,Transition metal phosphide,,Alkaline media,,,,,-,-,-,,Excelent?,,0.049,HER
+"NiCo-nitrides
+/NiCo2O4/GF",,Metallic NiCo-nitrides nanoparticles supported on NiCo2O4 nanoflakes loaded on graphite fibers,0.5 M H2SO4 ,,,,,,,,,-,73,0.46,OER
+NiFeP,,Bulk amorphous metallic,0.05 M H2SO4 ,,,,,,,,,30h,60,0.54,OER
+NiO/Ni ,Metal oxide,CNT,Alkaline media,,,,,-,-,-,,24h,51,0.1,HER
+NiS2 ,Metal dichalcogenide,,Acidic media,,,,,-,-,-,,,63,0.174,HER
+NiS2:Fe,Metal dichalcogenide,,Acidic media,,,,,-,-,-,,,37,0.121,HER
+NiSe2,Metal dicalcogenide,,Acidic media,,,,,-,-,-,,,32,0.117,HER
+NiSe2,Metal dicalcogenide,,Acidic media,,,,,-,-,-,,,32,0.117,HER
+NiSe2,"2D TMD, 1T",,,,,,,,,,,,,0.5,OER
+NiTe2,"2D TMD, 1T",,,,,,,,,,,,,0.5,OER
+NiTe2,"2D TMD, 2H",,,,,,,,,,,,,0.4,OER
+N-WC,,Nitrogen-doped tungsten carbide on carbon fiber paper,0.5 M H2SO4 ,,,,,,,,,Potential increased by ~150 mV @10 mA/cm2 for 1 h,320,0.25,OER
+ONPPGC/OCC,,"Nitrogen, phosphorus and oxygen tri-doped porous graphite carbon loaded on oxidized carbon cloth",0.5 M H2SO4 ,,,,,,,,,"10 mA/cm2 for 10 h, ~25 mV increase in overpotential",230,0.47,OER
+PbCoO3,Perovskite,-,Alkaline media,2,4,1.298,0.465,1.51,3.04,4.59,,,,0.99,OER
+PbCrO3,Perovskite,-,Alkaline media,2,4,1.298,0.48,0.68,1.66,4.15,,,,1.29,OER
+PbCuO3,Perovskite,-,Alkaline media,4,2,0.774,0.63,1.69,4.17,4.72,,,,1.36,OER
+PbFeO3,Perovskite,-,Alkaline media,2,4,1.298,0.585,1.54,3.26,4.71,,,,0.82,OER
+PbGeO3,Perovskite,-,Alkaline media,2,4,1.298,0.46,1.06,3.66,4.45,,,,1.56,OER
+PbIrO3,Perovskite,-,Alkaline media,2,4,1.298,0.625,0.5,1.69,3.75,,,,0.82,OER
+PbMgO3,Perovskite,-,Alkaline media,4,2,0.774,0.71,1.75,4.53,4.73,,,,1.59,OER
+PbMnO3,Perovskite,-,Alkaline media,2,4,1.298,0.46,1.45,2.84,4.65,,,,0.87,OER
+PbMoO3,Perovskite,-,Alkaline media,2,4,1.298,0.65,-0.33,-0.11,2.97,,,,1.96,OER
+PbNbO3,Perovskite,-,Alkaline media,2,4,1.298,0.735,-0.49,0.43,3.04,,,,1.5,OER
+PbNiO3,Perovskite,-,Alkaline media,2,4,1.298,0.48,1.46,3.58,4.27,,,,1.16,OER
+PbNpO3,Perovskite,-,Alkaline media,2,4,1.298,0.925,1.08,2.68,4.2,,,,1.58,OER
+"PbO2/Co3O4
+composites",,Anodic deposition of PbO2/Co3O4 composite on Ni electrode,1 M HClO4,,,,,,,,,-,105,0.46,OER
+PbOsO3,Perovskite,-,Alkaline media,2,4,1.298,0.63,-0.04,0.68,3.26,,,,1.25,OER
+PbPdO3,Perovskite,-,Alkaline media,2,4,1.298,0.615,0.79,3.23,3.83,,,,1.18,OER
+PbPtO3,Perovskite,-,Alkaline media,2,4,1.298,0.625,0.46,2.78,3.55,,,,1.21,OER
+PbPuO3,Perovskite,-,Alkaline media,2,4,1.298,0.91,1,2.52,4.22,,,,1.52,OER
+PbReO3,Perovskite,-,Alkaline media,2,4,1.298,0.63,-0.15,1.47,3.1,,,,1.36,OER
+PbRhO3,Perovskite,-,Alkaline media,2,4,1.298,0.6,-0.06,1.45,3.14,,,,0.96,OER
+PbRuO3,Perovskite,-,Alkaline media,2,4,1.298,0.62,0.27,1.58,3.55,,,,0.78,OER
+PbSnO3,Perovskite,-,Alkaline media,2,4,1.298,1.082,1.78,4.65,4.95,,,,1.63,OER
+PbTaO3,Perovskite,-,Alkaline media,2,4,1.298,0.68,-0.72,0.31,2.87,,,,1.68,OER
+PbTcO3,Perovskite,-,Alkaline media,2,4,1.298,0.645,0.2,1.39,3.42,,,,1.35,OER
+PbTeO3,Perovskite,-,Alkaline media,2,4,1.298,0.717,0.16,2.5,3.63,,,,1.39,OER
+PbTiO3,Perovskite,-,Alkaline media,2,4,1.298,0.569,1.19,3.42,4.44,,,,1,OER
+PbUO3,Perovskite,-,Alkaline media,2,4,1.298,1.012,0.87,2.4,4.09,,,,1.43,OER
+PbVO3,Perovskite,-,Alkaline media,2,4,1.298,0.61,0.41,1.38,3.99,,,,1.35,OER
+PbWO3,Perovskite,-,Alkaline media,2,4,1.298,0.66,-0.89,-0.92,2.51,,,,2.3,OER
+PbZnO3,Perovskite,-,Alkaline media,4,2,0.774,0.73,1.9,4.77,4.83,,,,1.64,OER
+PbZrO3,Perovskite,-,Alkaline media,2,4,1.298,0.747,1.69,4.54,4.79,,,,1.76,OER
+Pd/C,Noble metal,Carbon,Alkaline media,,,,,-,-,-,,,,,HER
+Pd/C,Noble metal,Carbon,Acidic media,,,,,-,-,-,,,,,HER
+Pd/Pt,Noble metal,Platinum?,Acidic media,,,,,-,-,-,,,,,HER
+Pd0.5Ir0.5O2,Bimetallic oxide,-,Acidic media,,,,,0.83,2.46,3.84,,,,0.4,OER
+Pd0.5Ir0.5O2,Bimetallic oxide,-,Acidic media,,,,,0.48,1.95,3.68,,,,0.5,OER
+Pd0.5Ir0.5O2,Bimetallic oxide,-,Acidic media,,,,,0.58,1.94,3.52,,,,0.35,OER
+Pd0.5Ir0.5O2,Bimetallic oxide,-,Acidic media,,,,,0.57,2.23,3.73,,,,0.43,OER
+Pd0.5Ir0.5O2,Bimetallic oxide,-,Acidic media,,,,,0.47,1.79,3.46,,,,0.44,OER
+Pd0.5Ir0.5O2,Bimetallic oxide,-,Acidic media,,,,,0.76,2.29,3.83,,,,0.31,OER
+Pd0.5Ir0.5O2,Bimetallic oxide,-,Acidic media,,,,,0.53,1.76,3.44,,,,0.45,OER
+PMFCP,,Porous Mn-doped FeP/Co3(PO4)2 nanosheets on glassy carbon disk,0.5 M H2SO4 ,,,,,,,,,5 mA/cm2 for 8.3 h,472,0.39,OER
+P-NSC/Ni4Fe5S8-1000,,"Porous N, S-doped carbon network-immobilized ultrafine pentlandites (i.e., Ni4Fe5S8) nanoparticles loaded on glassy carbon electrode",0.5 M H2SO4 ,,,,,,,,,"10,000 times of potential cycling between 1.2 and 1.9 V (vs. RHE).",72.1,0.55,OER
+PrAlO3,Perovskite,-,Alkaline media,3,3,1.098,0.468,2.02,4.18,5.02,,,,1.73,OER
+PrBaCo2 O 5+ δ,,,,,,,,,,,,,72,0.52,OER
+PrBiO3,Perovskite,-,Alkaline media,3,3,1.098,1.053,1.11,3.28,4.28,,,,1.41,OER
+PrCoO3,Perovskite,-,Alkaline media,3,3,1.098,0.578,1.21,2.88,4.4,,,,0.88,OER
+PrCrO3,Perovskite,-,Alkaline media,3,3,1.098,0.615,0.57,1.23,3.94,,,,1.48,OER
+PrCuO3,Perovskite,-,Alkaline media,3,3,1.098,0.54,1.63,4.03,4.7,,,,1.44,OER
+PrFeO3,Perovskite,-,Alkaline media,3,3,1.098,0.609,1.38,3.07,4.66,,,,0.46,OER
+PrGaO3,Perovskite,-,Alkaline media,3,3,1.098,0.547,2.86,5.8,5.83,,,,1.71,OER
+PrGaO3,Perovskite,-,Alkaline media,3,3,1.098,0.547,2.41,5.08,5.41,,,,1.71,OER
+PrGeO3,Perovskite,-,Alkaline media,4,2,0.905,0.73,0.82,3.33,4.23,,,,1.65,OER
+PrInO3,Perovskite,-,Alkaline media,3,3,1.098,0.78,1.84,4.83,4.99,,,,1.73,OER
+PrIrO3,Perovskite,-,Alkaline media,3,3,1.098,0.68,0.37,1.58,3.6,,,,0.7,OER
+PrMgO3,Perovskite,-,Alkaline media,4,2,0.905,0.71,1.78,4.54,4.73,,,,1.67,OER
+PrMnO3,Perovskite,-,Alkaline media,3,3,1.098,0.602,1.04,2.26,4.36,,,,0.87,OER
+PrMoO3,Perovskite,-,Alkaline media,3,3,1.098,0.69,-0.45,-0.15,2.93,,,,2.08,OER
+PrNbO3,Perovskite,-,Alkaline media,3,3,1.098,0.72,-0.62,0.25,2.99,,,,1.62,OER
+PrNiO3,Perovskite,-,Alkaline media,3,3,1.098,0.58,1.37,3.44,4.18,,,,1.22,OER
+PrNpO3,Perovskite,-,Alkaline media,3,3,1.098,1.01,0.92,2.49,4.17,,,,1.75,OER
+PrPdO3,Perovskite,-,Alkaline media,3,3,1.098,0.76,0.81,2.99,3.81,,,,1.24,OER
+PrPtO3,Perovskite,-,Alkaline media,4,2,0.905,0.7,0.36,2.55,3.49,,,,1.28,OER
+PrPuO3,Perovskite,-,Alkaline media,3,3,1.098,1,0.83,2.27,4.22,,,,1.66,OER
+PrRhO3,Perovskite,-,Alkaline media,3,3,1.098,0.665,-0.08,1.37,3.12,,,,0.85,OER
+PrRuO3,Perovskite,-,Alkaline media,3,3,1.098,0.68,0.24,1.5,3.5,,,,0.68,OER
+PrSbO3,Perovskite,-,Alkaline media,3,3,1.098,0.707,-0.32,1.89,3.37,,,,1.33,OER
+PrScO3,Perovskite,-,Alkaline media,3,3,1.098,0.808,1.89,4.91,4.77,,,,1.77,OER
+PrTaO3,Perovskite,-,Alkaline media,3,3,1.098,0.72,-0.78,0.43,2.9,,,,1.94,OER
+PrTiO3,Perovskite,-,Alkaline media,3,3,1.098,0.67,1.15,2.96,4.39,,,,1.35,OER
+PrUO3,Perovskite,-,Alkaline media,3,3,1.098,1.025,0.65,2.06,4,,,,1.6,OER
+PrVO3,Perovskite,-,Alkaline media,3,3,1.098,0.64,0.22,0.82,3.68,,,,1.63,OER
+PrZnO3,Perovskite,-,Alkaline media,4,2,0.905,0.73,1.98,4.87,4.83,,,,1.64,OER
+Pt,Noble metal,Cation exchange membrane itself,"Acidic media, PEM cell, 80C",,,,,,,,,1200h+,130,,OER
+Pt (100),Noble metal,,Acidic media,,,,,-,-,-,,,40,,HER
+Pt (110),Noble metal,,Acidic media,,,,,-,-,-,,,30,,HER
+Pt (111),Noble metal,,Acidic media,,,,,-,-,-,,,74,,HER
+Pt (polycrystalline),Noble metal,,Alkaline media,,,,,-,-,-,,,,,HER
+Pt/C,Noble metal,Carbon,Alkaline media,,,,,-,-,-,,,,0.05,HER
+Pt/C,Noble metal,Carbon,Alkaline media,,,,,-,-,-,,,,,HER
+Pt/C,Noble metal,Carbon,Acidic media,,,,,-,-,-,,,,,HER
+PtRu/C,Noble metal,Carbon,Alkaline media,,,,,-,-,-,,,,,HER
+RbBiO3,Perovskite,-,Alkaline media,1,5,1.652,0.76,1.1,3.38,4.24,,,,1.3,OER
+RbCrO3,Perovskite,-,Alkaline media,1,5,1.652,0.468,1.18,2.26,4.47,,,,1.09,OER
+RbIrO3,Perovskite,-,Alkaline media,1,5,1.652,0.57,0.9,2.2,4.06,,,,0.73,OER
+RbMnO3,Perovskite,-,Alkaline media,1,5,1.652,0.33,1.8,3.14,4.88,,,,0.78,OER
+RbMoO3,Perovskite,-,Alkaline media,1,5,1.652,0.535,-0.28,0.02,3.01,,,,1.9,OER
+RbNbO3,Perovskite,-,Alkaline media,1,5,1.652,0.638,-0.58,0.51,3,,,,1.32,OER
+RbNpO3,Perovskite,-,Alkaline media,1,5,1.652,0.75,1.07,2.86,4.19,,,,1.46,OER
+RbOsO3,Perovskite,-,Alkaline media,1,5,1.652,0.575,0.06,0.86,3.39,,,,1.17,OER
+RbPaO3,Perovskite,-,Alkaline media,1,5,1.652,0.88,-1.17,0.06,2.52,,,,1.23,OER
+RbPtO3,Perovskite,-,Alkaline media,1,5,1.652,0.57,0.95,2.8,3.78,,,,1.06,OER
+RbPuO3,Perovskite,-,Alkaline media,1,5,1.652,0.74,1.03,2.69,4.19,,,,1.42,OER
+RbReO3,Perovskite,-,Alkaline media,1,5,1.652,0.58,-0.01,1.58,3.19,,,,1.24,OER
+RbRhO3,Perovskite,-,Alkaline media,1,5,1.652,0.55,0.38,2.03,3.35,,,,0.76,OER
+RbRuO3,Perovskite,-,Alkaline media,1,5,1.652,0.565,0.66,2.13,3.76,,,,0.65,OER
+RbSbO3,Perovskite,-,Alkaline media,1,5,1.652,0.6,0.27,2.57,3.72,,,,1.24,OER
+RbTaO3,Perovskite,-,Alkaline media,1,5,1.652,0.69,-0.45,1.28,3.11,,,,1.55,OER
+RbTcO3,Perovskite,-,Alkaline media,1,5,1.652,0.6,0.52,1.76,3.66,,,,1.23,OER
+RbUO3,Perovskite,-,Alkaline media,1,5,1.652,0.8,1.01,2.6,4.13,,,,1.38,OER
+RbVO3,Perovskite,-,Alkaline media,1,5,1.652,0.452,0.84,2.02,4.26,,,,1.12,OER
+RbWO3,Perovskite,-,Alkaline media,1,5,1.652,0.62,-0.83,-0.8,2.54,,,,2.24,OER
+Rh,Noble metal,Cation exchange membrane itself,"Acidic media, PEM cell, 80C",,,,,,,,,1200h+,115,,OER
+Rh/C,Noble metal,Carbon,Alkaline media,,,,,-,-,-,,,,,HER
+Rh/C,Noble metal,Carbon,Acidic media,,,,,-,-,-,,,,,HER
+Rh/RuO,Noble metal oxide,Cation exchange membrane itself,"Acidic media, PEM cell, 80C",,,,,,,,,1050h,130,,OER
+Rh0.5Ir0.5O2,Bimetallic oxide,-,Acidic media,,,,,0.84,2.24,3.85,,,,0.38,OER
+Rh0.5Ir0.5O2,Bimetallic oxide,-,Acidic media,,,,,0.29,1.76,3.2,,,,0.49,OER
+Rh0.5Ir0.5O2,Bimetallic oxide,-,Acidic media,,,,,0.23,1.66,3.2,,,,0.49,OER
+Rh0.5Pd0.5O2,Bimetallic oxide,-,Acidic media,,,,,1,2.67,3.93,,,,0.44,OER
+Rh0.5Pd0.5O2,Bimetallic oxide,-,Acidic media,,,,,1.12,2.75,4.02,,,,0.4,OER
+Rh0.5Pd0.5O2,Bimetallic oxide,-,Acidic media,,,,,1.13,2.76,4,,,,0.4,OER
+Rh0.5Pt0.5O2,Bimetallic oxide,-,Acidic media,,,,,1.13,2.81,4.05,,,,0.45,OER
+RhO2,Noble metal oxide,Cation exchange membrane itself,"Acidic media, PEM cell, 80C",,,,,,,,,600h,120,,OER
+Ru,Noble metal,,Acidic media,,,,,,,,,,,,OER
+Ru,Noble metal,,Acidic media,,,,,,,,,,,,OER
+Ru (2.9 × 106 u),Noble metal,,Acidic media,,,,,,,,,,,,OER
+RuO2,Noble metal oxide,Cation exchange membrane itself,"Acidic media, PEM cell, 80C",,,,,,,,,,65,,OER
+RuO2,Noble metal oxide,,Acidic media,,,,,,,,,,,,OER
+RuO2,Noble metal oxide,,Alkaline media,,,,,,,,,,,,OER
+RuO2,,,,,,,,,,,,,,,
+RuO2 (0.1 × 106 u),Noble metal oxide,,Acidic media,,,,,,,,,,,,OER
+RuO2 (Sputter),Noble metal oxide,,Acidic media,,,,,,,,,,,,OER
+SC0.375N1.125M,Perovskite,,Alkaline media,,,,,,,,,,106,0.47,OER
+SC0.75N0.75M,Perovskite,,Alkaline media,,,,,,,,,,105,0.46,OER
+SC1.125N0.375M,Perovskite,,Alkaline media,,,,,,,,,,120,0.44,OER
+ScAlO3,Perovskite,-,Alkaline media,3,3,0.808,0.468,0.7,4.07,3.8,,,,2.14,OER
+ScIrO3,Perovskite,-,Alkaline media,3,3,0.808,0.68,0.46,1.95,3.53,,,,0.36,OER
+ScSiO3,Perovskite,-,Alkaline media,3,4,0.808,0.33,-0.55,-0.41,3.21,,,,2.39,OER
+SFC0.125N0.125M,Perovskite,,Alkaline media,,,,,,,,,,79,0.389,OER
+SFC0.375M,Perovskite,,Alkaline media,,,,,,,,,,77,0.4,OER
+SFC0.375N0.375M,Perovskite,,Alkaline media,,,,,,,,,,84,0.405,OER
+SFC0.375N0.75M,Perovskite,,Alkaline media,,,,,,,,,,106,0.41,OER
+SFC0.75M,Perovskite,,Alkaline media,,,,,,,,,,85,0.42,OER
+SFC0.75N0.375M,Perovskite,,Alkaline media,,,,,,,,,,82,0.4,OER
+SFC1.125M,Perovskite,,Alkaline media,,,,,,,,,,82,0.415,OER
+SFN0.25M,Perovskite,,Alkaline media,,,,,,,,,,74,0.404,OER
+SFN0.375M,Perovskite,,Alkaline media,,,,,,,,,,90,0.475,OER
+SFN0.75M,Perovskite,,Alkaline media,,,,,,,,,,70,0.36,OER
+SFN1.125M,Perovskite,,Alkaline media,,,,,,,,,,105,0.35,OER
+SmAlO3,Perovskite,-,Alkaline media,3,3,1.086,0.468,1.38,3.77,4.57,,,,1.67,OER
+SmBiO3,Perovskite,-,Alkaline media,3,3,1.086,1.053,1.03,2.98,4.19,,,,1.37,OER
+SmCoO3,Perovskite,-,Alkaline media,3,3,1.086,0.578,1.41,3.45,4.64,,,,0.81,OER
+SmCrO3,Perovskite,-,Alkaline media,3,3,1.086,0.615,0.52,1.2,3.89,,,,1.46,OER
+SmCuO3,Perovskite,-,Alkaline media,3,3,1.086,0.54,1.38,3.58,4.47,,,,1.45,OER
+SmFeO3,Perovskite,-,Alkaline media,2,4,1.27,0.585,1.15,3.2,4.45,,,,0.71,OER
+SmGeO3,Perovskite,-,Alkaline media,2,4,1.27,0.46,0.76,3.08,4.14,,,,1.58,OER
+SmInO3,Perovskite,-,Alkaline media,3,3,1.086,0.78,1.48,4.19,4.63,,,,1.67,OER
+SmIrO3,Perovskite,-,Alkaline media,2,4,1.27,0.625,0.52,1.69,3.79,,,,0.7,OER
+SmMnO3,Perovskite,-,Alkaline media,2,4,1.27,0.46,1.08,2.67,4.37,,,,0.8,OER
+SmMoO3,Perovskite,-,Alkaline media,2,4,1.27,0.65,-0.29,-0.07,3.07,,,,2,OER
+SmNbO3,Perovskite,-,Alkaline media,2,4,1.27,0.735,-0.43,0.29,3.16,,,,1.57,OER
+SmNiO3,Perovskite,-,Alkaline media,2,4,1.27,0.48,1.21,3.13,4.13,,,,1.23,OER
+SmNpO3,Perovskite,-,Alkaline media,2,4,1.27,0.925,0.61,2.29,3.9,,,,1.67,OER
+SmOsO3,Perovskite,-,Alkaline media,2,4,1.27,0.63,0.07,0.8,3.49,,,,1.33,OER
+SmPdO3,Perovskite,-,Alkaline media,2,4,1.27,0.615,0.81,2.77,3.83,,,,1.25,OER
+SmPtO3,Perovskite,-,Alkaline media,2,4,1.27,0.625,0.41,2.33,3.58,,,,1.27,OER
+SmPuO3,Perovskite,-,Alkaline media,2,4,1.27,0.91,0.52,2.07,3.93,,,,1.59,OER
+SmReO3,Perovskite,-,Alkaline media,2,4,1.27,0.63,-0.05,1.11,3.32,,,,1.45,OER
+SmRhO3,Perovskite,-,Alkaline media,2,4,1.27,0.6,0.02,1.36,3.22,,,,0.88,OER
+SmRuO3,Perovskite,-,Alkaline media,2,4,1.27,0.62,0.36,1.57,3.69,,,,0.7,OER
+SmSbO3,Perovskite,-,Alkaline media,3,3,1.086,0.707,-0.26,1.79,3.39,,,,1.27,OER
+SmScO3,Perovskite,-,Alkaline media,3,3,1.086,0.808,1.24,4.15,4.33,,,,1.71,OER
+SmSnO3,Perovskite,-,Alkaline media,2,4,1.27,1.082,1.4,4.12,4.63,,,,1.66,OER
+SmTaO3,Perovskite,-,Alkaline media,2,4,1.27,0.68,-0.39,0.63,3.21,,,,1.88,OER
+SmTcO3,Perovskite,-,Alkaline media,2,4,1.27,0.645,0.23,1.21,3.52,,,,1.4,OER
+SmTeO3,Perovskite,-,Alkaline media,2,4,1.27,0.717,0.08,2.09,3.55,,,,1.41,OER
+SmTiO3,Perovskite,-,Alkaline media,2,4,1.27,0.569,-0.35,0.83,3.19,,,,1.13,OER
+SmUO3,Perovskite,-,Alkaline media,2,4,1.27,1.012,0.3,1.87,3.76,,,,1.54,OER
+SmVO3,Perovskite,-,Alkaline media,3,3,1.086,0.64,0.16,0.76,3.61,,,,1.62,OER
+SmWO3,Perovskite,-,Alkaline media,2,4,1.27,0.66,-0.86,-0.83,2.62,,,,2.34,OER
+SmZrO3,Perovskite,-,Alkaline media,2,4,1.27,0.747,0.97,3.86,4.2,,,,1.82,OER
+SnTaO3,Perovskite,-,Alkaline media,4,3,1.082,0.72,-0.68,0.3,2.99,,,,1.46,OER
+Sr2Co1.5Mo0.5O6−δ (SC1.5M),Perovskite,,Alkaline media,,,,,,,,,,93,0.45,OER
+Sr2Fe1.5Mo0.5O6−δ (SF1.5M),Perovskite,,Alkaline media,,,,,,,,,,120,0.65,OER
+Sr2Ni1.5Mo0.5O6−δ (SN1.5M),Perovskite,,Alkaline media,,,,,,,,,,120,0.55,OER
+SrAgO3,Perovskite,-,Alkaline media,2,3,1.293,0.71,2.15,4.78,4.84,,,,1.4,OER
+SrAlO3,Perovskite,-,Alkaline media,2,3,1.293,0.468,2.15,4.9,4.83,,,,1.53,OER
+SrAuO3,Perovskite,-,Alkaline media,2,3,1.293,0.765,1.87,4.37,4.73,,,,1.27,OER
+SrBiO3,Perovskite,-,Alkaline media,2,3,1.293,1.053,0.65,2.93,3.56,,,,1.05,OER
+SrCdO3,Perovskite,-,Alkaline media,2,2,1.293,1.007,2.26,5.09,5.14,,,,1.59,OER
+SrCoO3,Perovskite,-,Alkaline media,2,4,1.293,0.465,2.58,3.44,5.68,,,,1.35,OER
+SrCoO3,Perovskite,,,,,,,,,,,,,,OER
+SrCoO3-d,Metal alloy oxide,,Alkaline media,,,,,,,,,,,,OER
+SrCrO3,Perovskite,-,Alkaline media,2,4,1.293,0.48,1.49,2.72,4.8,,,,0.85,OER
+SrFeO3,Perovskite,-,Alkaline media,2,4,1.293,0.585,2.09,3.71,5.21,,,,0.79,OER
+SrGaO3,Perovskite,-,Alkaline media,2,3,1.293,0.547,2.21,5.04,4.98,,,,1.6,OER
+SrGeO3,Perovskite,-,Alkaline media,2,4,1.293,0.46,2.22,5,5.56,,,,1.54,OER
+SrGeO3,Perovskite,-,Alkaline media,2,4,1.293,0.46,1.11,3.87,4.53,,,,1.53,OER
+SrHfO3,Perovskite,-,Alkaline media,2,4,1.293,0.72,2.31,5.33,5.44,,,,1.79,OER
+SrHfO3,Perovskite,-,Alkaline media,2,4,1.293,0.72,1.24,4.18,4.47,,,,1.71,OER
+SrHgO3,Perovskite,-,Alkaline media,2,2,1.293,0.9525,2.13,4.76,5.27,,,,1.39,OER
+SrInO3,Perovskite,-,Alkaline media,2,3,1.293,0.78,1.88,4.82,4.83,,,,1.71,OER
+SrIrO3,Perovskite,-,Alkaline media,2,4,1.293,0.625,0.67,1.91,3.73,,,,0.59,OER
+SrMnO3,Perovskite,-,Alkaline media,2,4,1.293,0.46,1.83,3.33,5.06,,,,0.6,OER
+SrMoO3,Perovskite,-,Alkaline media,2,4,1.293,0.65,-0.11,0.55,3.4,,,,1.62,OER
+SrMoO3,Perovskite,-,Alkaline media,2,4,1.293,0.65,-0.66,-0.88,2.55,,,,2.2,OER
+SrNb0.1 Co 0.7 Fe 0.2 O 3-δ ,,,Alkaline media,,,,,,,,,,76,0.5,OER
+SrNbO3,Perovskite,-,Alkaline media,2,4,1.293,0.735,-0.72,0.05,2.9,,,,1.62,OER
+SrNbO3,Perovskite,-,Alkaline media,2,4,1.293,0.735,-1.43,-2.13,1.92,,,,2.82,OER
+SrNiO3,Perovskite,-,Alkaline media,2,4,1.293,0.48,1.87,3.84,4.62,,,,1.02,OER
+SrNpO3,Perovskite,-,Alkaline media,2,4,1.293,0.925,1.25,3.13,4.47,,,,1.55,OER
+SrOsO3,Perovskite,-,Alkaline media,2,4,1.293,0.63,0.95,2.02,4.38,,,,1.12,OER
+SrPbO3,Perovskite,-,Alkaline media,2,4,1.293,0.774,1.54,4.21,4.74,,,,1.44,OER
+SrPdO3,Perovskite,-,Alkaline media,2,4,1.293,0.615,1.3,3.4,3.82,,,,0.87,OER
+SrPtO3,Perovskite,-,Alkaline media,2,4,1.293,0.625,0.93,3.12,3.8,,,,1.02,OER
+SrPuO3,Perovskite,-,Alkaline media,2,4,1.293,0.91,1.18,3.02,4.46,,,,1.52,OER
+SrReO3,Perovskite,-,Alkaline media,2,4,1.293,0.63,0.24,2.18,3.56,,,,1.23,OER
+SrRhO3,Perovskite,-,Alkaline media,2,4,1.293,0.6,-0.04,1.93,2.93,,,,0.76,OER
+SrRuO3,Perovskite,-,Alkaline media,2,4,1.293,0.62,0.98,2.44,4.36,,,,0.69,OER
+SrSbO3,Perovskite,-,Alkaline media,2,3,1.293,0.707,-0.69,1.26,2.88,,,,0.81,OER
+SrSc0.025Nb0.025Co0.95O3-d,? oxide,,Alkaline media,,,,,,,,,,,,OER
+SrScO3,Perovskite,-,Alkaline media,2,3,1.293,0.808,2.18,5.14,4.93,,,,1.73,OER
+SrSiO3,Perovskite,-,Alkaline media,2,4,1.293,0.33,2.18,4.85,5.45,,,,1.44,OER
+SrSnO3,Perovskite,-,Alkaline media,2,4,1.293,1.082,2.09,5.03,5.43,,,,1.71,OER
+SrSnO3,Perovskite,-,Alkaline media,2,4,1.293,1.082,1.22,4.06,4.49,,,,1.62,OER
+SrTaO3,Perovskite,-,Alkaline media,2,4,1.293,0.68,-0.18,1.47,3.43,,,,1.6,OER
+SrTcO3,Perovskite,-,Alkaline media,2,4,1.293,0.645,0.41,1.17,3.82,,,,1.43,OER
+SrTeO3,Perovskite,-,Alkaline media,2,4,1.293,0.717,0.42,2.82,3.72,,,,1.21,OER
+SrTiO3,Perovskite,-,Alkaline media,2,4,1.293,0.569,2.63,5.48,5.67,,,,1.62,OER
+SrTiO3,Perovskite,-,Alkaline media,2,4,1.293,0.569,1.27,3.68,4.49,,,,1.18,OER
+SrTlO3,Perovskite,-,Alkaline media,2,3,1.293,0.865,2.03,4.75,5.06,,,,1.49,OER
+SrUO3,Perovskite,-,Alkaline media,2,4,1.293,1.012,1.21,2.97,4.49,,,,1.48,OER
+SrVO3,Perovskite,-,Alkaline media,2,4,1.293,0.61,1.01,2.23,4.45,,,,0.99,OER
+SrVO3,Perovskite,-,Alkaline media,2,4,1.293,0.61,-0.19,-0.32,3.1,,,,2.19,OER
+SrWO3,Perovskite,-,Alkaline media,2,4,1.293,0.66,-0.63,-0.44,2.8,,,,2.2,OER
+SrYO3,Perovskite,-,Alkaline media,2,3,1.293,0.988,1.58,4.55,4.57,,,,1.74,OER
+SrZnO3,Perovskite,-,Alkaline media,2,2,1.293,0.73,2.41,5.13,5.15,,,,1.49,OER
+SrZrO3,Perovskite,-,Alkaline media,2,4,1.293,0.747,2.41,5.44,5.5,,,,1.8,OER
+SrZrO3,Perovskite,-,Alkaline media,2,4,1.293,0.747,1.3,4.16,4.54,,,,1.63,OER
+TaSe2,"2D TMD, 2H",,,,,,,,,,,,,0.33,OER
+TaTe2,"2D TMD, 1T",,,,,,,,,,,,,0.27,OER
+TaTe2,"2D TMD, 2H",,,,,,,,,,,,,0.44,OER
+TbAlO3,Perovskite,-,Alkaline media,3,3,1.009,0.468,1.57,4.04,4.59,,,,1.86,OER
+TbBiO3,Perovskite,-,Alkaline media,3,3,1.009,1.053,1.1,3.15,4.21,,,,1.61,OER
+TbCoO3,Perovskite,-,Alkaline media,3,3,1.009,0.578,1.27,2.91,4.32,,,,0.85,OER
+TbCrO3,Perovskite,-,Alkaline media,3,3,1.009,0.615,0.57,1.36,3.92,,,,1.45,OER
+TbCuO3,Perovskite,-,Alkaline media,3,3,1.009,0.54,1.48,3.8,4.5,,,,1.47,OER
+TbFeO3,Perovskite,-,Alkaline media,3,3,1.009,0.609,1.27,3.05,4.45,,,,0.65,OER
+TbGaO3,Perovskite,-,Alkaline media,3,3,1.009,0.547,1.98,4.77,4.95,,,,1.83,OER
+TbGeO3,Perovskite,-,Alkaline media,4,2,0.82,0.73,0.66,3.06,3.99,,,,1.81,OER
+TbInO3,Perovskite,-,Alkaline media,3,3,1.009,0.78,1.6,4.53,4.66,,,,1.85,OER
+TbIrO3,Perovskite,-,Alkaline media,3,3,1.009,0.68,0.35,1.6,3.57,,,,0.66,OER
+TbMgO3,Perovskite,-,Alkaline media,4,2,0.82,0.71,1.41,4.3,4.4,,,,1.81,OER
+TbMnO3,Perovskite,-,Alkaline media,3,3,1.009,0.602,1.2,2.55,4.4,,,,0.75,OER
+TbMoO3,Perovskite,-,Alkaline media,3,3,1.009,0.69,-0.47,-0.18,2.95,,,,2.11,OER
+TbNbO3,Perovskite,-,Alkaline media,3,3,1.009,0.72,-0.64,0.17,2.98,,,,1.81,OER
+TbNiO3,Perovskite,-,Alkaline media,3,3,1.009,0.58,1.26,3.21,4.05,,,,1.23,OER
+TbNpO3,Perovskite,-,Alkaline media,3,3,1.009,1.01,0.76,2.43,3.92,,,,1.88,OER
+TbPdO3,Perovskite,-,Alkaline media,3,3,1.009,0.76,0.77,2.81,3.79,,,,1.27,OER
+TbPtO3,Perovskite,-,Alkaline media,4,2,0.82,0.7,0.35,2.38,3.48,,,,1.33,OER
+TbPuO3,Perovskite,-,Alkaline media,3,3,1.009,1,0.67,2.2,3.99,,,,1.8,OER
+TbRhO3,Perovskite,-,Alkaline media,3,3,1.009,0.665,-0.03,1.4,3.14,,,,0.77,OER
+TbRuO3,Perovskite,-,Alkaline media,3,3,1.009,0.68,0.21,1.52,3.5,,,,0.63,OER
+TbSbO3,Perovskite,-,Alkaline media,3,3,1.009,0.707,-0.33,1.76,3.35,,,,1.54,OER
+TbScO3,Perovskite,-,Alkaline media,3,3,1.009,0.808,1.46,4.6,4.39,,,,1.88,OER
+TbTaO3,Perovskite,-,Alkaline media,3,3,1.009,0.72,-0.79,0.32,2.91,,,,2.05,OER
+TbTiO3,Perovskite,-,Alkaline media,3,3,1.009,0.67,0.71,2.63,3.99,,,,1.53,OER
+TbUO3,Perovskite,-,Alkaline media,3,3,1.009,1.025,0.49,2,3.77,,,,1.75,OER
+TbVO3,Perovskite,-,Alkaline media,3,3,1.009,0.64,0.28,1.01,3.72,,,,1.55,OER
+TbZnO3,Perovskite,-,Alkaline media,4,2,0.82,0.73,1.66,4.61,4.61,,,,1.81,OER
+ThCoO3,Perovskite,-,Alkaline media,4,2,1.1,0.709,1.11,2.86,4.24,,,,0.86,OER
+ThCrO3,Perovskite,-,Alkaline media,4,2,1.1,0.765,0.5,1.4,3.91,,,,1.42,OER
+ThCuO3,Perovskite,-,Alkaline media,4,2,1.1,0.63,1.4,3.57,4.46,,,,1.44,OER
+ThFeO3,Perovskite,-,Alkaline media,4,2,1.1,0.716,1.2,3.01,4.41,,,,0.66,OER
+ThGeO3,Perovskite,-,Alkaline media,4,2,1.1,0.73,0.47,2.75,3.92,,,,1.81,OER
+ThMgO3,Perovskite,-,Alkaline media,4,2,1.1,0.71,1.26,3.94,4.36,,,,1.8,OER
+ThMnO3,Perovskite,-,Alkaline media,4,2,1.1,0.795,1.09,2.49,4.35,,,,0.78,OER
+ThNiO3,Perovskite,-,Alkaline media,4,2,1.1,0.59,1.22,3.1,4.08,,,,1.21,OER
+ThNpO3,Perovskite,-,Alkaline media,4,2,1.1,1.1,0.63,2.24,3.82,,,,1.89,OER
+ThPdO3,Perovskite,-,Alkaline media,4,2,1.1,0.75,0.68,2.67,3.78,,,,1.26,OER
+ThPtO3,Perovskite,-,Alkaline media,4,2,1.1,0.7,0.24,2.17,3.49,,,,1.33,OER
+ThTiO3,Perovskite,-,Alkaline media,4,2,1.1,0.86,0.42,1.96,3.87,,,,1.5,OER
+ThVO3,Perovskite,-,Alkaline media,4,2,1.1,0.79,0.22,1.06,3.71,,,,1.52,OER
+ThZnO3,Perovskite,-,Alkaline media,4,2,1.1,0.73,1.53,4.22,4.6,,,,1.8,OER
+TiB2,,Titanium diboride (TiB2) microparticles loaded on FTO,1 M HClO4,,,,,,,,,Deactivated after 10.5 h @ 10 mA/cm2,300,0.56,OER
+Ti-MnO2,,Ti-stabilized MnO2 on gold electrode,0.05 M H2SO4 ,,,,,,,,,2 h @ 1.9 V (~ 6 mA/cm2),170,0.5,OER
+TlAlO3,Perovskite,-,Alkaline media,3,3,0.865,0.468,2.24,4.26,5.06,,,,1.7,OER
+TlBiO3,Perovskite,-,Alkaline media,1,5,1.597,0.76,1.06,3.34,4.16,,,,1.34,OER
+TlCoO3,Perovskite,-,Alkaline media,3,3,0.865,0.578,1.69,3.01,4.71,,,,0.95,OER
+TlCrO3,Perovskite,-,Alkaline media,1,5,1.597,0.468,0.74,1.65,4.19,,,,1.3,OER
+TlCuO3,Perovskite,-,Alkaline media,3,3,0.865,0.54,1.86,4.31,4.82,,,,1.34,OER
+TlFeO3,Perovskite,-,Alkaline media,3,3,0.865,0.609,1.73,3.25,4.86,,,,0.75,OER
+TlGaO3,Perovskite,-,Alkaline media,3,3,0.865,0.547,2.36,4.92,5.2,,,,1.64,OER
+TlInO3,Perovskite,-,Alkaline media,3,3,0.865,0.78,2.01,4.8,4.96,,,,1.65,OER
+TlIrO3,Perovskite,-,Alkaline media,1,5,1.597,0.57,0.48,1.69,3.69,,,,0.74,OER
+TlMnO3,Perovskite,-,Alkaline media,3,3,0.865,0.602,1.62,2.86,4.8,,,,0.8,OER
+TlMoO3,Perovskite,-,Alkaline media,1,5,1.597,0.535,-0.35,-0.26,2.92,,,,1.99,OER
+TlNbO3,Perovskite,-,Alkaline media,1,5,1.597,0.638,-0.56,0.25,2.98,,,,1.55,OER
+TlNiO3,Perovskite,-,Alkaline media,3,3,0.865,0.58,1.6,3.66,4.35,,,,1.16,OER
+TlNpO3,Perovskite,-,Alkaline media,1,5,1.597,0.75,1.16,2.67,4.27,,,,1.59,OER
+TlOsO3,Perovskite,-,Alkaline media,1,5,1.597,0.575,-0.09,0.49,3.18,,,,1.24,OER
+TlPdO3,Perovskite,-,Alkaline media,3,3,0.865,0.76,0.87,3.28,3.85,,,,1.17,OER
+TlPtO3,Perovskite,-,Alkaline media,1,5,1.597,0.57,0.49,2.83,3.54,,,,1.19,OER
+TlPuO3,Perovskite,-,Alkaline media,1,5,1.597,0.74,1.05,2.49,4.29,,,,1.55,OER
+TlReO3,Perovskite,-,Alkaline media,1,5,1.597,0.58,-0.17,1.38,3.02,,,,1.35,OER
+TlRhO3,Perovskite,-,Alkaline media,1,5,1.597,0.55,0.02,1.48,3.13,,,,0.84,OER
+TlRuO3,Perovskite,-,Alkaline media,1,5,1.597,0.565,0.3,1.58,3.53,,,,0.69,OER
+TlSbO3,Perovskite,-,Alkaline media,1,5,1.597,0.6,-0.14,2.12,3.39,,,,1.24,OER
+TlScO3,Perovskite,-,Alkaline media,3,3,0.865,0.808,2.21,4.97,4.95,,,,1.68,OER
+TlTaO3,Perovskite,-,Alkaline media,1,5,1.597,0.69,-0.78,0.08,2.76,,,,1.72,OER
+TlTcO3,Perovskite,-,Alkaline media,1,5,1.597,0.6,0.19,1.3,3.39,,,,1.33,OER
+TlTiO3,Perovskite,-,Alkaline media,3,3,0.865,0.67,1.88,3.84,4.89,,,,1.37,OER
+TlUO3,Perovskite,-,Alkaline media,1,5,1.597,0.8,0.97,2.38,4.18,,,,1.48,OER
+TlVO3,Perovskite,-,Alkaline media,1,5,1.597,0.452,0.43,1.33,4.02,,,,1.35,OER
+TlWO3,Perovskite,-,Alkaline media,1,5,1.597,0.62,-0.96,-1.1,2.41,,,,2.32,OER
+TmAlO3,Perovskite,-,Alkaline media,3,3,0.975,0.468,1.47,4.06,4.54,,,,1.86,OER
+TmBiO3,Perovskite,-,Alkaline media,3,3,0.975,1.053,1.07,3.09,4.17,,,,1.56,OER
+TmCoO3,Perovskite,-,Alkaline media,2,4,1.06,0.465,1.37,3.13,4.45,,,,0.86,OER
+TmCrO3,Perovskite,-,Alkaline media,2,4,1.06,0.48,0.65,1.49,4,,,,1.42,OER
+TmCuO3,Perovskite,-,Alkaline media,3,3,0.975,0.54,1.5,3.83,4.49,,,,1.46,OER
+TmFeO3,Perovskite,-,Alkaline media,2,4,1.06,0.585,1.32,3.26,4.51,,,,0.67,OER
+TmGeO3,Perovskite,-,Alkaline media,2,4,1.06,0.46,0.74,3.17,4.07,,,,1.79,OER
+TmInO3,Perovskite,-,Alkaline media,3,3,0.975,0.78,1.54,4.57,4.62,,,,1.83,OER
+TmIrO3,Perovskite,-,Alkaline media,2,4,1.06,0.625,0.59,1.84,3.85,,,,0.65,OER
+TmMnO3,Perovskite,-,Alkaline media,2,4,1.06,0.46,1.25,2.76,4.42,,,,0.73,OER
+TmMoO3,Perovskite,-,Alkaline media,2,4,1.06,0.65,-0.29,-0.09,3.06,,,,2.06,OER
+TmNbO3,Perovskite,-,Alkaline media,2,4,1.06,0.735,-0.43,0.41,3.16,,,,1.76,OER
+TmNiO3,Perovskite,-,Alkaline media,2,4,1.06,0.48,1.27,3.24,4.08,,,,1.21,OER
+TmNpO3,Perovskite,-,Alkaline media,2,4,1.06,0.925,0.78,2.58,3.97,,,,1.81,OER
+TmOsO3,Perovskite,-,Alkaline media,2,4,1.06,0.63,0.05,0.79,3.44,,,,1.3,OER
+TmPdO3,Perovskite,-,Alkaline media,2,4,1.06,0.615,0.83,2.89,3.82,,,,1.25,OER
+TmPtO3,Perovskite,-,Alkaline media,2,4,1.06,0.625,0.47,2.46,3.61,,,,1.3,OER
+TmPuO3,Perovskite,-,Alkaline media,2,4,1.06,0.91,0.71,2.37,4,,,,1.75,OER
+TmReO3,Perovskite,-,Alkaline media,2,4,1.06,0.63,-0.07,1.24,3.28,,,,1.42,OER
+TmRhO3,Perovskite,-,Alkaline media,2,4,1.06,0.6,0.11,1.54,3.32,,,,0.73,OER
+TmRuO3,Perovskite,-,Alkaline media,2,4,1.06,0.62,0.39,1.72,3.7,,,,0.62,OER
+TmSbO3,Perovskite,-,Alkaline media,3,3,0.975,0.707,-0.29,1.73,3.36,,,,1.49,OER
+TmScO3,Perovskite,-,Alkaline media,3,3,0.975,0.808,1.4,4.58,4.38,,,,1.86,OER
+TmSnO3,Perovskite,-,Alkaline media,2,4,1.06,1.082,1.48,4.48,4.61,,,,1.83,OER
+TmTaO3,Perovskite,-,Alkaline media,2,4,1.06,0.68,-0.49,0.56,3.15,,,,1.96,OER
+TmTcO3,Perovskite,-,Alkaline media,2,4,1.06,0.645,0.28,1.37,3.53,,,,1.39,OER
+TmTeO3,Perovskite,-,Alkaline media,2,4,1.06,0.717,0.04,2.09,3.52,,,,1.6,OER
+TmTiO3,Perovskite,-,Alkaline media,2,4,1.06,0.569,0.78,2.92,4.09,,,,1.55,OER
+TmUO3,Perovskite,-,Alkaline media,2,4,1.06,1.012,0.57,2.2,3.85,,,,1.69,OER
+TmVO3,Perovskite,-,Alkaline media,2,4,1.06,0.61,0.36,1.15,3.79,,,,1.53,OER
+TmWO3,Perovskite,-,Alkaline media,2,4,1.06,0.66,-0.85,-0.85,2.61,,,,2.39,OER
+TmZrO3,Perovskite,-,Alkaline media,2,4,1.06,0.747,1.25,4.44,4.33,,,,1.94,OER
+VTe2,"2D TMD, 1T",,,,,,,,,,,,,0.29,OER
+VTe2,"2D TMD, 2H",,,,,,,,,,,,,0.24,OER
+W2C,Transition metal carbide,MWCNTs,Acidic media,,,,,-,-,-,,8h,45,0.123,HER
+WCN:Fe,Transition metal carbonnitride,,Acidic media,,,,,-,-,-,,1000 cycles,47,0.22,HER
+WP,Metal phosphate,C cloth,Acidic media,,,,,,,,,15h,0.069,0.13,
+WS2,Transition metal dichalcogenide,Glassy carbon,Acidic media,,,,,,,,,,60,0.25,
+WS2,Transition metal dichalcogenide,Glassy carbon,Acidic media,,,,,,,,,,60,0.25,
+YAlO3,Perovskite,-,Alkaline media,3,3,0.988,0.468,2.87,5.73,5.79,,,,1.64,OER
+YAlO3,Perovskite,-,Alkaline media,3,3,0.988,0.468,1.93,4.85,4.79,,,,1.7,OER
+YbAlO3,Perovskite,-,Alkaline media,3,3,0.955,0.468,1.96,4.24,4.93,,,,1.72,OER
+YbBiO3,Perovskite,-,Alkaline media,3,3,0.955,1.053,1.05,3.29,4.2,,,,1.36,OER
+YbCoO3,Perovskite,-,Alkaline media,2,4,1.08,0.465,1.58,3.12,4.69,,,,0.93,OER
+YbCrO3,Perovskite,-,Alkaline media,2,4,1.08,0.48,0.73,1.55,4.11,,,,1.36,OER
+YbCuO3,Perovskite,-,Alkaline media,3,3,0.955,0.54,1.72,4.13,4.75,,,,1.39,OER
+YbFeO3,Perovskite,-,Alkaline media,2,4,1.08,0.585,1.58,3.35,4.81,,,,0.72,OER
+YbGeO3,Perovskite,-,Alkaline media,2,4,1.08,0.46,0.9,3.5,4.34,,,,1.59,OER
+YbInO3,Perovskite,-,Alkaline media,3,3,0.955,0.78,1.85,4.82,4.92,,,,1.68,OER
+YBiO3,Perovskite,-,Alkaline media,3,3,0.988,1.053,1.07,3.27,4.19,,,,1.52,OER
+YbIrO3,Perovskite,-,Alkaline media,2,4,1.08,0.625,0.52,1.79,3.76,,,,0.68,OER
+YbMnO3,Perovskite,-,Alkaline media,2,4,1.08,0.46,1.49,2.85,4.72,,,,0.77,OER
+YbMoO3,Perovskite,-,Alkaline media,2,4,1.08,0.65,-0.37,-0.16,2.94,,,,1.99,OER
+YbNbO3,Perovskite,-,Alkaline media,2,4,1.08,0.735,-0.63,0.1,2.95,,,,1.58,OER
+YbNiO3,Perovskite,-,Alkaline media,2,4,1.08,0.48,1.48,3.52,4.29,,,,1.2,OER
+YbNpO3,Perovskite,-,Alkaline media,2,4,1.08,0.925,1.06,2.67,4.27,,,,1.64,OER
+YbOsO3,Perovskite,-,Alkaline media,2,4,1.08,0.63,-0.05,0.7,3.31,,,,1.27,OER
+YbPdO3,Perovskite,-,Alkaline media,2,4,1.08,0.615,0.88,3.09,3.84,,,,1.21,OER
+YbPtO3,Perovskite,-,Alkaline media,2,4,1.08,0.625,0.51,2.67,3.59,,,,1.24,OER
+YbPuO3,Perovskite,-,Alkaline media,2,4,1.08,0.91,0.97,2.47,4.31,,,,1.59,OER
+YbReO3,Perovskite,-,Alkaline media,2,4,1.08,0.63,-0.15,1.41,3.14,,,,1.38,OER
+YbRhO3,Perovskite,-,Alkaline media,2,4,1.08,0.6,0.07,1.53,3.2,,,,0.8,OER
+YbRuO3,Perovskite,-,Alkaline media,2,4,1.08,0.62,0.34,1.69,3.61,,,,0.65,OER
+YbSbO3,Perovskite,-,Alkaline media,3,3,0.955,0.707,-0.26,1.9,3.34,,,,1.27,OER
+YbScO3,Perovskite,-,Alkaline media,3,3,0.955,0.808,1.94,4.98,4.84,,,,1.72,OER
+YbSnO3,Perovskite,-,Alkaline media,2,4,1.08,1.082,1.79,4.8,5.02,,,,1.68,OER
+YbTaO3,Perovskite,-,Alkaline media,2,4,1.08,0.68,-0.72,0.44,2.95,,,,1.77,OER
+YbTcO3,Perovskite,-,Alkaline media,2,4,1.08,0.645,0.23,1.29,3.42,,,,1.34,OER
+YbTeO3,Perovskite,-,Alkaline media,2,4,1.08,0.717,0.08,2.26,3.54,,,,1.4,OER
+YbTiO3,Perovskite,-,Alkaline media,2,4,1.08,0.569,1.51,3.62,4.81,,,,1.41,OER
+YbUO3,Perovskite,-,Alkaline media,2,4,1.08,1.012,0.88,2.34,4.19,,,,1.53,OER
+YbVO3,Perovskite,-,Alkaline media,2,4,1.08,0.61,0.41,1.21,3.94,,,,1.44,OER
+YbWO3,Perovskite,-,Alkaline media,2,4,1.08,0.66,-0.93,-0.95,2.53,,,,2.32,OER
+YbZrO3,Perovskite,-,Alkaline media,2,4,1.08,0.747,1.86,4.93,4.94,,,,1.81,OER
+YCoO3,Perovskite,-,Alkaline media,3,3,0.988,0.578,1.5,3.13,4.45,,,,0.81,OER
+YCrO3,Perovskite,-,Alkaline media,3,3,0.988,0.615,0.86,1.99,4.06,,,,1.27,OER
+YCuO3,Perovskite,-,Alkaline media,3,3,0.988,0.54,1.72,4.55,4.75,,,,1.59,OER
+YFeO3,Perovskite,-,Alkaline media,3,3,0.988,0.609,1.59,3.42,4.73,,,,0.6,OER
+YGaO3,Perovskite,-,Alkaline media,3,3,0.988,0.547,2.33,5.08,5.28,,,,1.8,OER
+YInO3,Perovskite,-,Alkaline media,3,3,0.988,0.78,1.89,4.93,4.97,,,,1.83,OER
+YIrO3,Perovskite,-,Alkaline media,3,3,0.988,0.68,0.65,2.14,3.79,,,,0.56,OER
+YMnO3,Perovskite,-,Alkaline media,3,3,0.988,0.602,1.48,2.96,4.68,,,,0.64,OER
+YMoO3,Perovskite,-,Alkaline media,3,3,0.988,0.69,-0.24,0.12,3.18,,,,2.06,OER
+YNbO3,Perovskite,-,Alkaline media,3,3,0.988,0.72,-0.22,0.78,3.29,,,,1.74,OER
+YNiO3,Perovskite,-,Alkaline media,3,3,0.988,0.58,1.27,3.35,3.62,,,,0.84,OER
+YNpO3,Perovskite,-,Alkaline media,3,3,0.988,1.01,1,2.88,4.23,,,,1.85,OER
+YPdO3,Perovskite,-,Alkaline media,3,3,0.988,0.76,0.96,3.31,3.84,,,,1.1,OER
+YPuO3,Perovskite,-,Alkaline media,3,3,0.988,1,0.93,2.72,4.26,,,,1.77,OER
+YRhO3,Perovskite,-,Alkaline media,3,3,0.988,0.665,0.8,2.3,3.77,,,,0.26,OER
+YRuO3,Perovskite,-,Alkaline media,3,3,0.988,0.68,0.57,2.08,3.77,,,,0.55,OER
+YSbO3,Perovskite,-,Alkaline media,3,3,0.988,0.707,-0.11,2.05,3.44,,,,1.39,OER
+YScO3,Perovskite,-,Alkaline media,3,3,0.988,0.808,1.99,5.15,4.83,,,,1.86,OER
+YTaO3,Perovskite,-,Alkaline media,3,3,0.988,0.72,-0.34,1.06,3.24,,,,1.96,OER
+YTiO3,Perovskite,-,Alkaline media,3,3,0.988,0.67,1.49,3.97,4.61,,,,1.54,OER
+YUO3,Perovskite,-,Alkaline media,3,3,0.988,1.025,0.81,2.59,4.09,,,,1.72,OER
+YVO3,Perovskite,-,Alkaline media,3,3,0.988,0.64,0.61,1.7,3.9,,,,1.34,OER
+YZnO3,Perovskite,-,Alkaline media,3,2,0.988,0.73,1.74,5.03,4.54,,,,2.06,OER
+γ-MnO2,,"Gamma phase manganese
+oxide loaded on FTO",1 M H2SO4 ,,,,,,,,,8000 h at pH = 2,80,0.49,OER
